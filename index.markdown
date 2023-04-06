@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+https://jykim74.tistory.com
+
