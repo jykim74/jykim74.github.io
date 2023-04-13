@@ -1,7 +1,10 @@
 ---
 layout: post
-title: CertMan ( X509 Cert, CRL Manager )
-date: 2023-04-13 19:20:23 +0900
+title: "CertMan ( X509 Cert, CRL Manager )"
 category: Software
 ---
+ This program is a management program that generates X.509 certificates, CRLs, CSRs and key pairs.
 
+Supported algorithms are RSA and ECDSA algorithms.
+The file can be downloaded from this page link (size is about 30M)
+This is a program I made personally, so if you have any questions or bugs, please Use [this link].
