@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BerEditor ( ASN.1 DER BER Viewer and Editor )"
+tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
 This tool is capable of editing  and viewing for BER and DER  data.
