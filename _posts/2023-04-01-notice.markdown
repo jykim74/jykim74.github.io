@@ -4,8 +4,6 @@ title: "DMG file support for MAC OS"
 tags: [MacOS,DMG]
 category: Notice
 ---
-# post-sample
-
 BerEditor, CertMan and CryptokiMan tools were only supported on Windows 64bit.
 DMG file for MAC OS has also been uploaded.
 
