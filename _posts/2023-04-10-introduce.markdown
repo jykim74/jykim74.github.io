@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BerEditor, CertMan and CryptokiMan"
+title: "About BerEditor, CertMan and CryptokiMan"
 tags: [BerEditor, CertMan, CryptokiMan]
 category: Software
 ---
@@ -8,7 +8,7 @@ It's a program I made as a side project,
 For those of you wondering what the tools are, here is a brief explanation.
 
 
-[* What is BerEditor?]( https://jykim74.tistory.com/36 "BerEditor" ) 
+[* What is BerEditor?]( https://jykim74.github.io/software/2023/04/13/BerEditor.html "BerEditor" ) 
 
 BerEditor is a data viewer tool made with Basic Encoding Rule.
 Of course, DER is a subset of BER, so you can see DER by default as well.
@@ -22,7 +22,7 @@ When developing encryption functions, this tool is used to create and compare da
 This is for API testing.
 
 
-[* What is CertMan?](https://jykim74.tistory.com/37 "CertMan")
+[* What is CertMan?](https://jykim74.github.io/software/2023/04/13/CertMan.html "CertMan")
 
 CertMan is a tool for creating X.509 certificates and CRLs of various profiles in relation to RSA and ECDSA.
 Of course, key pair generation and request letter (CSR) generation are also supported.
@@ -30,7 +30,7 @@ This tool is for creating various certificates and CRLs and testing the generate
 The focus of this tool is to support X.509 certificates and CRL profiles in various format settings.
 
 
-[* What is CryptokiMan?](https://jykim74.tistory.com/38 "CryptokiMan")
+[* What is CryptokiMan?](https://jykim74.github.io/software/2023/04/13/CryptokiMan.html "CryptokiMan")
 
 When dealing with HSM devices, PKCS#11 standard API is provided.
 It is a tool to manage the function of the corresponding HSM using this standard API.
