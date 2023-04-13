@@ -14,4 +14,4 @@ This is a program I made personally, so if you have any questions or bugs, pleas
 [[Download] CertMan Version 0.9.8 (MacOS)](https://jykim74.github.io/dmg/CertManV098.dmg, "CryptokiMan")
 
 [Screen Shot]
-![bereditor_eng](https://user-images.githubusercontent.com/23622335/231695694-37f4c154-b71a-4fdc-b3c5-43ec7c4c5b74.png)
+![certman_eng](https://user-images.githubusercontent.com/23622335/231696165-fe011640-a552-4a33-a483-43d4ec50afa4.png)
