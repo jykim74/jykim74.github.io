@@ -64,3 +64,14 @@ analytics:
   google:
     tracking_id          : "G-287S0CKBNS"
     anonymize_ip         : # true, false (default)
+
+# tipue_search
+ tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
+
