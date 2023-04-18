@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Why am I developing with OpenSSL and QT?"
+tags: [BerEditor, CertMan, CryptokiMan]
+category: SmallTalk
+---
+
+I developed apps here with OpenSSL and QT.
+The reason is, first of all, OpenSSL is the most powerful PKI-related technology among the libraries I have touched.
+(Of course, I haven't tried many things ^^;; )
+
+And I personally use it, but there is no license problem.
+Sometimes mbedTLS is also used, but in terms of encryption technology, mbedTLS is as good as OpenSSL.
+However, it lacks support for PKI technologies such as OCSP, TSP, and CMP in various formats of complicated ASN.1.
+
+And OpenSSL is supported on any platform.
+I don't think there is any other module that has been used for as long and as diversely as OpenSSL. Since most of the PKI technologies follow standards,
+It is a part that needs verification, but I think verification of PKI and encryption is sufficient.
+I've used modules used by PKI-related companies, but I've never seen anything as diverse as OpenSSL.
+
+In fact, the downside of OpenSSL is that it is a bit difficult to code. ASN.1 uses a lot of macros for processing
+It has so many features, so it's so complicated. So I have a lot to study ^^
+Another reason to use QT is because it is easy to use for UI development.
+I once developed using MFC with Visual Studio, but QT is much easier to develop than MFC.
+The UI for Windows is water, and Linux and MAC are also supported.
+
+(Note that iPhone and Android are also supported, but I have never used them ^^:: )
+
+At one time, when developing with MFC, there was always difficulty in supporting Linux and MAC, but QT solved this problem at once.
+The development code is also much easier to maintain.
+BerEditor, CertMan, and CryptokMan were all easy to compile on MAC or Linux.
+
+Personally, I can't do it because of the hassle of development environment, testing and version management.
+In fact, Linux and MAC have also been ported well.
+
+These tools are also intended to be shared for MAC and Linux.
+When will it be ....
