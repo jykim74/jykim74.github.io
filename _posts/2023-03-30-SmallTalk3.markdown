@@ -1,0 +1,29 @@
+---
+layout: post
+title: "About Cryptography, Mathematics, and OpenSSL"
+tags: [BerEditor, CertMan, CryptokiMan]
+category: SmallTalk
+---
+When I work on PKI, I encounter problems with cryptography and mathematical knowledge.
+Cryptology is a field of mathematics, so it is actually a difficult field for developers with backgrounds in electronic computing.
+As a result, it seems that the development of cryptography itself is mainly done by mathematicians.
+ 
+In fact, when developing PKI-related development, it is necessary to use cryptographic algorithms.
+It is common to use a well-crafted cryptographic source rather than creating your own cryptography functions.
+
+As a result, mathematical understanding is only a concept
+It develops because it memorizes the characteristics of the encryption algorithms.
+ 
+If the mathematical operations don't work, I have no mathematical understanding.
+Causes and bugs become problems that are too difficult to fix.
+So, to solve the problem, we use a proven library
+Determine the error of wrong operation through comparison with the verified library
+
+So a verified library is important.
+In my case, I use OpenSSL as a verification function, but the function of simple encryption itself is not enough.
+OpenSSL considers that encryption-related sources have been verified.
+
+Of course, that doesn't mean that OpenSSL itself isn't without problems at all ^^;
+
+Because of my lack of mathematical understanding,
+While verifying using OpenSSL, I made various tools.
