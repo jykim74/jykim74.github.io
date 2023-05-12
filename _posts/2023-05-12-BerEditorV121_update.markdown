@@ -5,7 +5,7 @@ tags: [BerEditor,Version121]
 category: Software
 ---
 BerEditor version 1.2.1 has been updated.
-[Download] BerEditor Version 1.2.1 (Win64)
+[[Download] BerEditor Version 1.2.1 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV121.msi "BerEditor" )
 
 Version 1.2.1 update contents
 - Added policy verification function in certificate verification window
