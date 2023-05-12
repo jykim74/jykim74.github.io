@@ -40,6 +40,6 @@ Of course, you can use it when creating a PKCS#11 library.
 
 I made these tools because I needed these tools while developing PKI.
 I hope that there might be someone who needs it.
-These programs can be downloaded from Google Drive.
+
 
 
