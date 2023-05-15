@@ -8,6 +8,8 @@ BerEditor version 1.2.1 has been updated.
 <br>
 
 [[Download] BerEditor Version 1.2.1 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV121.msi "BerEditor" )
+<br>
+[[Download] BerEditor Version 1.2.1 (MacOS)]( https://jykim74.github.io/msi/BerEditorV121.dmg "BerEditor" )
 
 Version 1.2.1 update contents
 - Added policy verification function in certificate verification window
