@@ -14,11 +14,11 @@ permalink: /about/
 - 💞️ The CertMan is a tool for managing X.509 Certificate and CRL.
 - ✨ The CryptokiMan is a tool for managing HSM device with cryptoki library.
 - 📫 The PKILib is not public.( I have not plan to publish the library yet. )
-- My Blog is https://jykim74.github.io
+- My Blog is https://jykim74.tistory.com
 
 - You can download the programs in below icon.
 
-<a href="https://jykim74.github.io/software/2023/04/13/BerEditor.html" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="https://jykim74.github.io/software/2023/04/13/CertMan.html" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="https://jykim74.github.io/software/2023/04/13/CryptokiMan.html" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://jykim74.tistory.com/36" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://jykim74.tistory.com/37" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://jykim74.tistory.com/38" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
 
