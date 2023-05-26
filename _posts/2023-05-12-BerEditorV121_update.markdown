@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BerEditor Version 1.2.1 Update"
+title: "BerEditor Version 1.2.2 Update"
 tags: [BerEditor,Version121]
 category: Software
 ---
