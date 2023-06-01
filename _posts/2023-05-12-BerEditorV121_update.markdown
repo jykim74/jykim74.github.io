@@ -1,21 +1,13 @@
 ---
 layout: post
-title: "BerEditor Version 1.2.1 Update"
+title: "BerEditor Version 1.2.2 Update"
 tags: [BerEditor,Version121]
 category: Software
 ---
-BerEditor version 1.2.1 has been updated.
+BerEditor version 1.2.2 has been updated.
 <br>
 
-[[Download] BerEditor Version 1.2.1 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV121.msi "BerEditor" )
+[[Download] BerEditor Version 1.2.2 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV122.msi "BerEditor" )
 <br>
-[[Download] BerEditor Version 1.2.1 (MacOS)]( https://jykim74.github.io/msi/BerEditorV121.dmg "BerEditor" )
+[[Download] BerEditor Version 1.2.2 (MacOS)]( https://jykim74.github.io/msi/BerEditorV122.dmg "BerEditor" )
 
-Version 1.2.1 update contents
-- Added policy verification function in certificate verification window
-- Fixed an error where an incorrect value appeared when retrying symmetric key encryption/decryption
-- ReqTagLen option support in encryption/decryption window AE function
-- Change implementation using SSS function libgmp
-- UI improvements
-- Fix other errors and messages
-- Full window size can be changed
