@@ -16,4 +16,4 @@ This is a program I made personally, so if you have any questions or bugs, use [
 
 [Screen Shot]
 
-![cryptokiman_eng](https://user-images.githubusercontent.com/23622335/231696693-db407231-1be3-468c-af8f-a4686f6bcdb7.png)
+![cryptokiman](https://github.com/jykim74/jykim74.github.io/assets/23622335/427e055e-bf80-44d2-808b-e5a1ec7d174b)
