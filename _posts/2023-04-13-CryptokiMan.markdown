@@ -10,9 +10,9 @@ The file can be downloaded from this page link (size is about 30M)
 Actually, the module test was done with the library downloaded from https://www.opendnssec.org/softhsm/.
 This is a program I made personally, so if you have any questions or bugs, use [this link](https://github.com/jykim74/CryptokiMan/issues/new, "CryptokMan")
 
-[[Download] CryptokiMan Version 0.9.9 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV099.msi "CryptokiMan")
+[[Download] CryptokiMan Version 1.0.0 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV100.msi "CryptokiMan")
 
-[[Download] CryptokiMan Version 0.9.9 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV099.dmg, "CryptokiMan")
+[[Download] CryptokiMan Version 1.0.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV100.dmg, "CryptokiMan")
 
 [Screen Shot]
 
