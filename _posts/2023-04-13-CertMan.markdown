@@ -10,9 +10,9 @@ Supported algorithms are RSA and ECDSA algorithms.
 The file can be downloaded from this page link (size is about 30M)
 This is a program I made personally, so if you have any questions or bugs, please Use [this link](https://github.com/jykim74/CertMan/issues/new "CryptokiMan")
 
-[[Download] CertMan Version 1.0.0 (Win64)](https://jykim74.github.io/msi/CertMan-enV100.msi "CertMan")
+[[Download] CertMan Version 1.0.1 (Win64)](https://jykim74.github.io/msi/CertMan-enV101.msi "CertMan")
 
-[[Download] CertMan Version 1.0.0 (MacOS)](https://jykim74.github.io/dmg/CertManV100.dmg, "CertMan")
+[[Download] CertMan Version 1.0.1 (MacOS)](https://jykim74.github.io/dmg/CertManV101.dmg, "CertMan")
 
 [Screen Shot]
 ![certman_eng](https://user-images.githubusercontent.com/23622335/231696165-fe011640-a552-4a33-a483-43d4ec50afa4.png)
