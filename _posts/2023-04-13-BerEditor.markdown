@@ -14,9 +14,9 @@ The size is about 29M.
 
 This is a program I made personally, so if you have any questions or bugs, use [this link](https://github.com/jykim74/BerEditor/issues/new, "BerEditor")
 
-[[Download] BerEditor Version 1.2.3 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV123.msi "BerEditor" )
+[[Download] BerEditor Version 1.4.0 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV140.msi "BerEditor" )
 
-[[Download] BerEditor Version 1.2.3 (MacOS)]( https://jykim74.github.io/dmg/BerEditorV123.dmg "BerEditor" )
+[[Download] BerEditor Version 1.4.0 (MacOS)]( https://jykim74.github.io/dmg/BerEditorV140.dmg "BerEditor" )
 
 [screen shot]
 ![bereditor_eng](https://user-images.githubusercontent.com/23622335/231694027-2c105393-a052-4008-a5d9-082437ce1744.png)
