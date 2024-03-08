@@ -166,3 +166,5 @@ CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://
 -   인증서 또는 CRL 가져오기에서 PEM 과 DER 자동 구분
 -   초기 해쉬 및 ECC 파라미터 설정 기능 추가
 -   일부 UI 개선
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjykim74.github.io%2Fsoftware%2F2024%2F03%2F08%2FCertManUpdate.html&count_bg=%23C83DBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
