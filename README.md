@@ -22,12 +22,3 @@ permalink: /about/
 <a href="https://jykim74.tistory.com/36" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
 <a href="https://jykim74.tistory.com/37" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
 <a href="https://jykim74.tistory.com/38" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
-
-## BerEditor Main ScreenShot
-![bereditor](https://github.com/jykim74/jykim74.github.io/assets/23622335/0f2c75ee-6909-4772-b5d5-5d5b31f7a259)
-
-## CertMan Main ScreenShot
-![certman](https://github.com/jykim74/jykim74.github.io/assets/23622335/105e03c2-252e-48b7-ad8f-d9293bafe849)
-
-## Cryptokiman Main ScreenShot
-![cryptokiman](https://github.com/jykim74/jykim74.github.io/assets/23622335/7946bed9-2180-4887-bcf2-c54a61322f94)
