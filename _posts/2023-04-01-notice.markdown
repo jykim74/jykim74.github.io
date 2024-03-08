@@ -1,0 +1,15 @@
+---
+layout: post
+title: "DMG file support for MAC OS"
+tags: [MacOS,DMG]
+category: Notice
+---
+BerEditor, CertMan and CryptokiMan tools were only supported on Windows 64bit.
+DMG file for MAC OS has also been uploaded.
+
+You can mount the DMG file on MAC and move the app to the /Applications folder to use it.
+
+It may be unstable because it has not yet been sufficiently tested in the MAC environment.
+Also, I don't know if the M1 chip MacBook for MAC works because I haven't used it.
+
+I would appreciate it if anyone who had run it in M1 would let me know if it works ^^

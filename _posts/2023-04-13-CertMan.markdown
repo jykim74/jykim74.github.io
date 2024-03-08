@@ -1,0 +1,35 @@
+---
+layout: post
+title: "CertMan ( X509 Cert, CRL Manager )"
+tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,CSR,KeyPair]
+category: Software
+---
+ This program is a management program that generates X.509 certificates, CRLs, CSRs and key pairs.
+
+Supported algorithms are RSA and ECDSA algorithms.
+The file can be downloaded from this page link (size is about 30M)
+This is a program I made personally, so if you have any questions or bugs, please Use [Google Groups]( https://groups.google.com/g/certman, "Google Groups" )
+
+[[Download] CertMan Version 1.7.0 (Win64)](https://jykim74.github.io/msi/CertMan-enV170.msi "CertMan")
+
+[[Download] CertMan Version 1.7.0 (MacOS)](https://jykim74.github.io/dmg/CertManV170.dmg, "CertMan")
+
+[[Download] CertMan Version 1.7.0 (Linux64)](https://jykim74.github.io/zip/CertManV170.zip, "CertMan")
+
+If you would like to receive a license, please write to [Google Groups]( https://groups.google.com/g/certman, "Google Groups" ) about your intended use and we will send you a short-term (30 days) license file.Of course, you can apply for a license multiple times
+
+This is a [Manual link]( https://jykim74.tistory.com/category/Manual/CertMan "CertMan Manual")  to the Korean manual page.
+Although it is lacking, the manual page supports a translator.
+
+## License or not licensed
+
+|classification|License Version|Unlicensed Version|
+|---|---|---|
+| Support Algorithm | RSA, ECDSA, DSA, EdDSA, SM2 | RSA |
+| Log Tab | O | X |
+| DB Password change | O | X |
+| LDAP Publish | O | X |
+| Certificate Renew | O | X |
+
+[Screen Shot]
+![certman_eng](https://user-images.githubusercontent.com/23622335/231696165-fe011640-a552-4a33-a483-43d4ec50afa4.png)

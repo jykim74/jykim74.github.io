@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Why i started blogging"
+tags: [BerEditor, CertMan, CryptokiMan]
+category: SmallTalk
+---
+
+The reason I started blogging in the first place was just to save my personal data.
+But now I've changed my mind a bit, so it's not my own repository
+It's because I want to let more people know.
+
+As a developer, writing has always been difficult. Even now
+I needed a space where I could write freely.
+So I started blogging.
+
+And I spent a lot of time on PKI-related development, but I often work on other topics in my business.
+I wanted to continue my PKI-related technology, so I started using the blog.
+
+In the meantime, the tools I made on the side were actually used mainly for functions that I only use.
+I want to be able to use it in a wider variety of ways.
+
+When I was using it alone, I didn't pay much attention to bugs about the function, but
+Distributing it as a blog makes me more responsible and more caring.
+As a result, it is more self-motivated than when I write alone.
+
+It seems that very few people use these tools yet.
+But let's try again and again ^^

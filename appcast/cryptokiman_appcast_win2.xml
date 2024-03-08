@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>CryptokiMan updates</title>
+		<link>https://jykim74.tistory.com/m/179</link>
+		<description>Feed for CryptokiMan updates</description>
+		<language>en</language>
+		<item>
+			<title>Version 1.7.0</title>
+			<sparkle:releaseNotesLink>https://jykim74.tistory.com/m/179</sparkle:releaseNotesLink>
+			<enclosure url="https://jykim74.github.io/msi/CryptokiMan-enV170.msi" sparkle:version="1.7.0" length="0" type="application/octet-stream"/>
+		</item>
+	</channel>
+</rss>

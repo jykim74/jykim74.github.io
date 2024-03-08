@@ -1,0 +1,578 @@
+---
+title : "MarkDown 문법정리"
+layout: post
+tag: [Jekyll, Markdown]
+category: Blog
+---
+## MarkDown 이란?  
+
+마크다운(MarkDown)은 일반 텍스트 기반의 경량 마크업 단어입니다.  
+일반 마크업 언어에 비해 문법이 쉽고 간단합니다.  
+현재 Sun0te 공부 블로그의 포스팅파일은 `.md` 확장자 파일이며, 마크다운 문법으로 포스팅할 수 있습니다.  
+
+## MarkDown 문법 정리  
+### 1️. Header (제목)
+---
+제목은 **<h1>** 부터 **<h6>** 까지 표현이 가능합니다.  
+각 제목마다 permalink가 있습니다.  
+
+```markdown
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+```  
+# h1 제목
+## h2 제목
+### h3 제목
+#### h4 제목
+##### h5 제목
+###### h6 제목  
+
+ <u>minimal-mistakes 테마</u>에서는 h2 header에 구분선이 그어지게 디자인되어 있습니다.
+
+### 2️. List (목록)
+---
+HTML의  **<ol>, <ul> 태그**와 같은 기능으로 작성할 수 있습니다.  
+순서가 있는 리스트와 없는 리스트로 작성할 수 있습니다.  
+순서가 있는 서브 리스트와 없는 서브 리스트도 작성 가능합니다.  
+순서가 없는 리스트 생성 시 사용 가능한 기호들이 있습니다.  
+
+```markdown
+순서가 있는 리스트
+1. 순서 리스트 첫 번째
+2. 순서 리스트 두 번째
+3. 순서 리스트 세 번째
+    1. 순서가 필요한 서브 리스트
+
+순서가 없는 리스트
+* 리스트 첫 번째
+* 리스트 두 번째
+* 리스트 세 번째
+    - 순서가 없는 서브 리스트
+
+순서가 없는 리스트 생성 시 사용 가능한 기호
+- hyphen '-'
+* asterisks '*'
++ plus sign '+'
+```  
+순서가 있는 리스트
+1. 순서 리스트 첫 번째
+2. 순서 리스트 두 번째
+3. 순서 리스트 세 번째
+    1. 순서가 필요한 서브 리스트
+
+순서가 없는 리스트
+* 리스트 첫 번째
+* 리스트 두 번째
+* 리스트 세 번째
+    - 순서가 없는 서브 리스트
+
+순서가 없는 리스트 생성 시 사용 가능한 기호
+- hyphen '-'
+* asterisks '*'
++ plus sign '+'  
+
+List 참조 블로그 👉 [HEROPY Tech 블로그](https://heropy.blog/2017/09/30/markdown/)  
+
+### 3. New line (개행) - 줄바꿈
+---
+1. 줄바꿈을 위해서는 문장을 마치고 **[SpaceBar] 두 번 + [Enter]키**를 입력하면 됩니다.  
+2. HTML 태그인 **\<br> 태그**를 사용할 수 있습니다.  
+
+```markdown
+1) 줄바꿈을 해보겠습니다.  
+스페이스 바 두 번 + 엔터 키를 누르시면 됩니다.
+
+2) 줄바꿈을 해보겠습니다. <br> HTML 테그를 이용하여 줄바꿈을 하면 됩니다. 
+```
+1) 줄바꿈을 해보겠습니다.  
+스페이스 바 두 번 + 엔터 키를 누르시면 됩니다.
+
+2) 줄바꿈을 해보겠습니다. <br> HTML 테그를 이용하여 줄바꿈을 하면 됩니다.  
+
+### 4. New line (개행) - 단락바꿈
+---
+포스팅을 작성하면서 문단을 나눌 때에는 **한 줄의 공백**을 입력하면 됩니다. 
+```markdown
+첫 번째 문단입니다.  
+문단을 구분하겠습니다.
+
+두 번째 문단입니다.  
+한 줄의 공백으로 구분합니다.
+```  
+첫 번째 문단입니다.  
+문단을 구분하겠습니다.
+
+두 번째 문단입니다.  
+한 줄의 공백으로 구분합니다. 
+
+### 5. Code Block (코드 블록)
+---
+**1) 인라인(Inline) 코드**  
+ 1번키 왼쪽에 위치한 **\` 키 (Grave 키)** 사이에 **키워드**를 입력합니다.
+
+```markdown
+ `인라인 코드` 입니다.
+```  
+`인라인 코드` 입니다.
+
+
+**2) 코드 블록**  
+주로 code를 입력할 때 이 코드 블록 안에 기입합니다. 
+
+1. \` 키 를 세 번 입력 후 코드 언어는 **소문자**로 입력  
+2. 코드입력  
+3. \` 키 를 세 번 입력 하여 코드 블록 닫기 
+
+-  **Tab 키를 두 번** 입력하여 코드 블럭을 생성할 수 있습니다.  
+  
+<u> ex) </u>
+
+\```python  
+n = int(input())  
+
+for i in range(1,n+1):  
+    print('*'*i+' '*(2*n-i*2)+'*'*i)  
+for j in range(n-1,0, -1):  
+    print('*'*j+' '*(2*n-j*2)+'*'*j)  
+\```  
+
+[tab 키][tab 키]간편하게 코드블럭 생성
+
+```python
+n = int(input())
+
+for i in range(1,n+1):
+    print('*'*i+' '*(2*n-i*2)+'*'*i)
+for j in range(n-1,0, -1):
+    print('*'*j+' '*(2*n-j*2)+'*'*j)
+```  
+        간편하게 코드블럭 생성
+
+### 6. \ BackSlash 키로 문법 보여주기
+---
+Inline (인라인) 코드 블록 밖에서 코드만 그대로 보이고 싶을 때 코드 앞에 **\ 백슬래시** 키를 입력합니다.
+
+```markdown
+\<u> 태그는 밑줄로 텍스트를 강조하는 태그입니다.</u>
+```
+\<u> 태그는 밑줄로 텍스트를 강조하는 태그입니다.</u>
+
+### 7. Emphasis (강조)
+---
+굵게 강조, 기울여서 강조, 밑줄, 취소선으로 텍스트를 강조할 수 있습니다.
+
+```markdown
+**별표로 (asterisks) 굵게 강조** 또는 __언더바로(underscore) 굵게 강조__ 
+
+*아틸릭체, 별표로 (asterisks) 기울여서 강조* 또는 _언더바로(underscore) 기울여서 강조_ 
+
+***굵음, 기울여서 강조를 동시에 사용***  
+
+\<u>태그를 이용하여 <u>밑줄</u>로 강조 
+
+~~물결표시 (tilde)로 취소선~~ 사용
+```  
+**별표로 (asterisks) 굵게 강조** 또는 __언더바로(underscore) 굵게 강조__   
+
+*아틸릭체, 별표로 (asterisks) 기울여서 강조* 또는 _언더바로(underscore) 기울여서 강조_   
+
+***굵음, 기울여서 강조를 동시에 사용***   
+
+\<u>태그를 이용하여 <u>밑줄</u>로 강조  
+
+~~물결표시 (tilde)로 취소선~~ 사용  
+
+### 8. Style (폰트 스타일 변경)
+---
+Markdown은 CSS Style을 지원하지 않지만 **<span> 태그**를 사용하여 입력한 글의 색상, 글꼴 두께, 크기를 변경할 수 있습니다.  
+몇몇 기능은 `<mark>`, `<div>`태그를 사용합니다.
+
+```markdown
+<span style="color:Aquamarine;">
+ 폰트 색상을 변경
+</span>
+
+<span style="font-weight:770;">
+ 폰트 굵기를 변경
+</span>
+
+<span style="font-size:25px;">
+ 폰트 크기를 변경
+</span>
+
+<span style="color:Aquamarine;font-weight:770;font-size:25px">
+    폰트의 스타일을 변경합니다.
+</span>
+
+<mark >하이라이트 텍스트</mark>입니다.  
+
+<mark style="background-color: #F0E68C">CSS 스타일 하이라이트 텍스트</mark>입니다.  
+
+<div style="background-color: #11999e">렌더링 강조 표시된 텍스트</div>입니다.  
+```  
+<span style="color:Aquamarine;">
+ 폰트 색상을 변경
+</span>
+
+<span style="font-weight:770;">
+ 폰트 굵기를 변경
+</span>
+
+<span style="font-size:25px;">
+ 폰트 크기를 변경
+</span>
+
+<span style="color:Aquamarine;font-weight:770;font-size:25px">
+    폰트 스타일을 변경합니다.
+</span>  
+
+<mark >하이라이트 텍스트</mark>입니다.  
+
+<mark style="background-color: #F0E68C">CSS 스타일 하이라이트 텍스트</mark>입니다.  
+
+<div style="background-color: #11999e">렌더링 강조 표시된 텍스트</div>입니다.  
+  
+font Style 참조 사이트 👉 [w3schools.io](https://www.w3schools.io/file/markdown-text-highlight/)  
+
+Color-Values 참조 사이트 👉 [w3schools.com - HTML Color Values](https://www.w3schools.com/colors/colors_hex.asp)
+
+
+### 9. Links (링크)
+---
+- **Inline 링크**  
+ **< > 꺾쇠 괄호** 안에 URL을 넣어 링크를 입력합니다.  
+ **[ ] 대괄호**를 사용하여 링크 주소를 텍스트로 변경할 수 있습니다.  
+ 이때는 **( ) 괄호** 안에 링크를 기입합니다.  
+ 상대 경로로 이동, 같은 md파일 내의 이동에도 **( ) 괄호**를 입력합니다.
+
+```markdown
+1. 주소만 기입  
+    <https://sun0te.github.io>  
+
+2. 링크 설명과 주소 기입  
+[Sun0te 블로그](https://sun0te.github.io)   
+
+3. 상대경로 링크 - 현재 위치는 _posts 폴더 안의 Blog 폴더에 있는 \.md 파일  
+[카테고리 페이지로 이동](../../categories/)
+[\[JAVA\] 인터페이스 - 1 페이지 이동](../../java/Interface_01)
+
+4. 같은 \.md 파일 내 다른 Header로 이동  
+[6. backslash 키로 문법 보여주기로 이동](#6--backslash-키로-문법-보여주기)  
+```  
+
+1. 주소만 기입  
+    <https://sun0te.github.io>  
+
+2. 링크 설명과 주소 기입  
+[Sun0te 블로그](https://sun0te.github.io)   
+
+3. 상대경로 링크 - 현재 위치는 _posts 폴더 안의 Blog 폴더에 있는 \.md 파일  
+[카테고리 페이지로 이동](../../categories/)  
+[\[JAVA\] 인터페이스 - 1 페이지 이동](../../java/Interface_01)  
+: 상대 경로는 주소창의 경로를 참고하여 이동하면 된다.  
+![image](https://user-images.githubusercontent.com/50590124/209436313-05dfc821-3dd1-40e0-980d-df2f548583e3.png)  
+\- 현재 폴더에서 이동 : **./**이동할 파일명  
+\- 상위 폴더 : **../**이동할 파일명
+
+4. 같은 \.md 파일 내 다른 Header로 이동  
+[6. backslash 키로 문법 보여주기로 이동](#6--backslash-키로-문법-보여주기)  
+: `( ) 괄호`안의 헤더를 직접 입력할 시   
+대문자는 **소문자**로, 띄어쓰기는 **- 키(Hyphen 키)**로 변경한다.  
+또한 특수문자(점표, 콤마...)들은 생략해야 한다.  
+
+    > VSCode에 포스트를 작성할 시 괄호 안에 **#키**를 누르면  
+    현재 md파일 내의 헤더가 미리보기로 나열된다.  
+    화살표 키로 이동 후 **tab키**로 선택해보자.  
+
+### 10. Blockquotes (인용구) 삽입
+---
+인용구는 `>`키를 입력 후 **SpaceBar키**로 공백을 입력하여 작성하면 `<blockquote>`로 변환됩니다.
+  
+중첩된 인용구를 생성할 수 있습니다.  
+```markdown
+인용구 생성
+> 첫 번째 Blockquote text 입니다.  
+
+중첩 인용구 생성  
+> 두 번째 Blockquote text 입니다.  
+>> Nested Blockquote text 입니다.
+
+```  
+인용구 생성
+> 첫 번째 Blockquote text 입니다.  
+
+중첩 인용구 생성  
+> 두 번째 Blockquote text 입니다.  
+>> Nested Blockquote text 입니다.  
+
+### 11. Images (이미지) 삽입
+---
+그림을 삽입할 때는 맨 앞에 **!(느낌표)** 가 붙습니다.  
+보통 업로드할 이미지를 오른쪽마우스로 클릭하여 이미지주소를 복사해 넣어주면 됩니다.  
+로컬파일 경로도 사용이 가능합니다.  
+> \![image 업로드 실패 시 대체 택스트]\(이미지 주소 입력 "링크설명")  
+또는 \<img src="이미지 주소 입력" width="너비" height="높이">
+
+```markdown
+이미지 삽입  
+![github-image](https://www.freeiconspng.com/thumbs/github-icon/github-icon-9.png "깃허브")
+이미지 삽입 - 로컬파일 경로  
+![github-image](\images\2022-05-11-markdown\github-icon-38976.png)
+
+링크 걸린 이미지 삽입  
+[![github-image-link](\images\2022-05-11-markdown\github-icon-38976.png)](https://github.com)
+
+이미지 크기 조정    
+<img src="/images/2022-05-11-markdown/github-icon-38976.png" width="200" height="100">
+
+이미지 중앙 정렬  
+<center> <img src="/images/2022-05-11-markdown/github-icon-38976.png" width="200" height="100"> </center>
+```   
+이미지 삽입  
+![github-image](https://www.freeiconspng.com/thumbs/github-icon/github-icon-9.png "깃허브")  
+
+이미지 삽입 - 로컬파일 경로  
+![github-image](\images\2022-05-11-markdown\github-icon-38976.png)
+
+링크 걸린 이미지 삽입  
+[![github-image-link](\images\2022-05-11-markdown\github-icon-38976.png)](https://github.com)
+
+이미지 크기 조정    
+<img src="/images/2022-05-11-markdown/github-icon-38976.png" width="200" height="100">
+
+이미지 중앙 정렬  
+<center> <img src="/images/2022-05-11-markdown/github-icon-38976.png" width="200" height="100"> </center>
+
+<details>
+<summary>✨Github blog 이미지 업로드 TIP✨</summary>
+<div markdown="1">       
+1. `Github Repositories` 에 이동하여 상단에 있는 `Issue 메뉴`를 클릭한다.  
+2. [New issue] 버튼을 클릭, `Bug Report`의 [Get started] 버튼을 누른다.  
+3. 글을 쓰는 창에 삽입할 이미지의 주소를 붙여넣거나, 저장된 이미지를 드로그해서 가져가 넣는다.  
+4. 자동으로 markdown 문법으로 변경된 이미지 링크를 복사해 작성하는 md 파일에 삽입할  이미지를 붙여넣는다.  
+    - 마크다운 문볍으로 변경된 이미지 주소 
+```markdown   
+![github-icon-38976](https://user-images.githubusercontent.com/50590124/168144501-549fe09b-afde-47bc-943f-110f9db35690.png) 
+```
+</div>
+</details>
+
+### 12. Expander control (접기/펼치기) 만들기
+---
+
+마크다운 자체에는 없는 기능이지만 HTML의 **<details> 태그**를 사용하여 생성이 가능합니다.  
+```markdown
+<details>
+<summary>Expander control 만들기</summary>
+<div markdown="1">
+
+| 태그 | 내용 |
+|--|--|
+|\<summmary>|접고 펼치는 버튼의 텍스트를 입력합니다|
+|<div markdown="1">|Jekyll에서 html 사이에 markdown을 인식 하기 위한 코드입니다|
+
+</div>
+</details>
+```  
+<details>
+<summary>Expander control 만들기</summary>
+<div markdown="1">
+
+| 태그 | 내용 |
+|--|--|
+|\<summmary>|접고 펼치는 버튼의 텍스트를 입력합니다|
+|<div markdown="1">|Jekyll에서 html 사이에 markdown을 인식 하기 위한 코드입니다|
+
+</div>
+</details>  
+
+Expander control 참조 블로그 👉 [손끝으로 만드는 세상](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-expander-control/)  
+
+### 13. Table (표) 만들기
+---  
+일반적인 표를 생성 할 때는 **-키**와 **|키**를 사용합니다.  
+columns(컬럼)을 **| (Pipes 키)**로 구분하고,  **- (Dash 키)**를 최소 **세 개** 이상 입력하여 Header와 구분합니다.  
+**: 키**로 표를 정렬할 수 있습니다.   
+- 왼쪽 정렬 :---  
+- 가운데 정렬 :---:  
+- 오른쪽 정렬 ---:  
+
+```markdown
+일반적인 표 생성  
+
+|Header1|Header2|Header3|
+|---|---|---|
+|text1|text2|text3|
+|텍스트1|텍스트2|텍스트3|  
+
+정렬된 표 생성 
+
+|왼쪽 정렬|가운데 정렬|오른쪽 정렬|
+|:---|:---:|---:|
+|Align left|Centre align|Align right|
+| \:--- | \:---: | \---: |
+```  
+
+일반적인 표 생성  
+
+|Header1|Header2|Header3|
+|---|---|---|
+|text1|text2|text3|
+|텍스트1|텍스트2|텍스트3| 
+
+정렬된 표 생성 
+ 
+|왼쪽 정렬|가운데 정렬|오른쪽 정렬|
+|:---|:---:|---:|
+|Align left|Centre align|Align right|
+| \:--- | \:---: | \---: |  
+
+<details>
+<summary>✨Markdown 표 자동생성 TIP✨</summary>
+<div markdown="1"> 
+[Table Genderator](https://www.tablesgenerator.com/markdown_tables) 에서 Markdown 문법으로 자동 생성되는 표의 코드를 생성할 수 있습니다.
+</div>
+</details>
+
+
+### 14. Horizontal Rules (수평선) 만들기
+--- 
+**-키**, ***키**, **_키** 중 하나를 **3개** 이상 입력하면 구분선을 출력할 수 있습니다.  
+**- 키**로 구분선을 입력할 시 바로 윗 줄에 텍스트가 입력되면 Header 로 인식합니다.  
+```markdown 
+---  
+___  
+***
+```  
+
+---  
+___  
+***
+
+### 15. Notice Boxes (문자 박스) 만들기
+---  
+Notice boxes 를 생성할 때는 `{: .notice}` 태그를 사용합니다.  
+사용 가능한 notice boxes 타입은 다음과 같습니다.
+
+|  Avaliable notice box type |
+|-----------------|
+| {: .notice} |
+| {: .notice--primary} |
+| {: .notice--info} |
+| {: .notice--warning} |
+| {: .notice--danger} |
+| {: .notice--success} |
+
+notice box type \| button type 참조 블로그 👉 [Fabrizio Musacchio](https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#kramdown)  
+
+```markdown
+**Notice:** 문자박스를 생성합니다
+{: .notice}
+**primary Notice:** 문자박스를 생성합니다
+{: .notice--primary}
+**Info Notice:** 문자박스를 생성합니다
+{: .notice--info}
+**Warning Notice:** 문자박스를 생성합니다
+{: .notice--warning}
+**Danger Notice:** 문자박스를 생성합니다
+{: .notice--danger}
+**Success Notice:** 문자박스를 생성합니다
+{: .notice--success}
+```  
+
+**Notice:** 문자박스를 생성합니다
+{: .notice}
+**primary Notice:** 문자박스를 생성합니다
+{: .notice--primary}
+**Info Notice:** 문자박스를 생성합니다
+{: .notice--info}
+**Warning Notice:** 문자박스를 생성합니다
+{: .notice--warning}
+**Danger Notice:** 문자박스를 생성합니다
+{: .notice--danger}
+**Success Notice:** 문자박스를 생성합니다
+{: .notice--success}  
+
+### 16. Buttons (버튼) 만들기
+---  
+Button을 생성할 때는 `{: .btn}` 태그를 사용합니다.
+> \[Button name](#link){: .btn}
+
+|  button Class |
+|-----------------|
+| .btn |
+| .btn .btn--primary |
+| .btn .btn--success |
+| .btn .btn--warning |
+| .btn .btn--danger |
+| .btn .btn--info |
+| .btn .btn--inverse |
+| .btn .btn--light-outline |
+| .btn .btn--primary .btn--x-large |
+| .btn .btn--primary .btn--large |
+| .btn .btn--primary |
+| .btn .btn--primary .btn--small |
+
+```markdown
+[맨 위로 이동](#){: .btn .btn--primary}
+[맨 아래로 이동](#footer){: .btn .btn--warning}
+
+[버튼만들기](#16-buttons-버튼-만들기){: .btn .btn--info .btn--large}
+```
+
+[맨 위로 이동](#){: .btn .btn--primary}
+[맨 아래로 이동](#footer){: .btn .btn--warning}
+
+[버튼만들기](#16-buttons-버튼-만들기){: .btn .btn--info .btn--large}
+
+### 17. Checkbox (체크박스) 만들기
+---  
+Checkbox를 생설할 때는 `- [ ]` 기호로 생성합니다.
+check 가 되어있는 checkbox를 생성하려면 대괄호 안에 X를 기입하여 `- [X]`로 생성합니다.   
+
+```markdown
+- [ ] 체크가 되지 않는 checkbox 
+
+- [X] 체크가 되어 있는 checkbox
+```  
+
+- [ ] 체크가 되지 않는 checkbox 
+
+- [X] 체크가 되어 있는 checkbox
+
+### 18. Icon (아이콘) 사용하기
+---
+[fontawesome 홈페이지](https://fontawesome.com/icons)에서 원하는 아이콘의 HTML을 복사해서 가져오면 됩니다.  
+가져온 아이콘을 고정하거나 크기를 조정할 때는 <https://fontawesome.com/v4/examples/> 에서 조정하면 됩니다.
+
+icon 참조 블로그 👉 [haehwan.github.io](https://haehwan.github.io/posts/MD-fontawesome/)  
+
+```markdown  
+아이콘 생성  
+<i class="fab fa-markdown"></i>
+
+아이콘 활용하기
+> <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> exclamation 아이콘입니다.  
+
+> **<i class="fa fa-question-circle"></i> 질문 :** 답변입니다. 
+
+> *<i class="fa fa-info-circle" aria-hidden="true"></i> 정보 :* info 아이콘입니다.  
+```  
+아이콘 생성  
+<i class="fab fa-markdown"></i>
+
+아이콘 활용하기
+> <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> exclamation 아이콘입니다.  
+
+> **<i class="fa fa-question-circle"></i> 질문 :** 답변입니다. 
+
+> *<i class="fa fa-info-circle" aria-hidden="true"></i> 정보 :* info 아이콘입니다.   
+
+코드 참조 블로그 👉 [마크다운 문법 인용구 (Blockquotes)](https://anys4udoc.readthedocs.io/en/latest/attach/doc-markdown.html)
+
+🌞 정보 : 공부 기록용 블로그입니다. 오타나 내용 오류가 있을 경우 알려주시면 감사하겠습니다.
+{: .notice}

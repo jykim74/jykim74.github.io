@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Supports Linux 64-bit BerEditor CertMan CryptokiMan (zip format)"
+tags: [Linux,zip]
+category: Notice
+---
+Linux 64-bit BerEditor CertMan CryptokiMan is supported (zip format) BerEditor, CertMan and CryptokiMan are supported on Linux.
+The current test Linux is Ubuntu 20 version and is 64-bit.
+The executable file was compressed and uploaded as a zip file.
+After unzipping the zip file, you can run the executable sh file.
+
+Currently, I don't know if it works well other than my development environment.
+If you use it, please let me know the Linux environment you are using (in the comments or on the bulletin board below).
+
+The Linux version is actually lacking in testing, so if there are any problems or problems,
+please use the bulletin board below. Please let me know at the link.
+
+[BerEditor GroupsBoard]( https://groups.google.com/g/bereditor )
+
+[CertMan GroupsBoard]( https://groups.google.com/g/certman )
+
+[CryptokiMan GoupsBoard]( https://groups.google.com/g/cryptokiman )
+
