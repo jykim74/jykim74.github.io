@@ -141,3 +141,6 @@ CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )
 -   WaitForSlotEvent 체크 추가
 -   EditAttribute 에서 Value 값 String 및 Base64 인코딩 지원
 -   명령어로 cryptoki library 파일 열기 지원
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjykim74.github.io%2Fsoftware%2F2024%2F03%2F08%2FCryptokiUpdate.html&count_bg=%23C8883D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
