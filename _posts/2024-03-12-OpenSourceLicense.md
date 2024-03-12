@@ -1,3 +1,10 @@
+---
+layout: post
+title: "오픈소스 라이선스 지원 처리 내용"
+tags: [Apache License, copyright, LGPL, Open Source License, 오픈소스, 라이선스]
+category: Software
+---
+
 여기서 만든 내 프로그램들(BerEditor, CertMan, CryptokiMan) 은 오픈소스를 이용하여 만들었다.  
 오픈소스의 경우 소스를 자유롭게 참조 하고 사용 할 수 있지만 프로그램을 만들어서 배포하는 경우  
 해당 라이선스에 따라 지켜야 하는 의무 사항이 존재 하는 프로그램이다.  
