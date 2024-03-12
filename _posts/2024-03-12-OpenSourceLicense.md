@@ -61,23 +61,25 @@ QT 또한 About 창에서 QT를 동적링크를 이용하여 사용한다는 것
 해당 프로그램 사용시 저작권 및 보증에 대한 책임이 없음을 명시하는 내용이다.  
 (개인적으로 아래 영어 문구 해석하기 너무 어렵네요)
 
-[##_Image|kage@bjF2EW/btsFJxWT9RF/SNKUvmGEGWWkrwolOmAHc0/img.png|CDM|1.3|{"originWidth":630,"originHeight":593,"style":"alignCenter","caption":"내프로그램 저작권 및 고지 의무 사항"}_##]
+![license](https://github.com/jykim74/jykim74.github.io/assets/23622335/ff61ff4d-7873-49e2-954b-b4d526df8829)
 
 \- 자체 개발 소스 저작권 표시
 
-[##_Image|kage@IDA1t/btsFFRXD9l3/e26WhgRdFCjgRTZxdTJKu0/img.png|CDM|1.3|{"originWidth":492,"originHeight":158,"style":"alignCenter","caption":"만든 소스 저작권 표시"}_##]
+![auth](https://github.com/jykim74/jykim74.github.io/assets/23622335/ebfb21fe-2d0c-4878-8353-1f19e851ba53)
+
 
 ## 사용한 오픈소스에 대한 저작권 표시
 
 아래 내용이 사용된 오픈소스와 해당 저작권 정보 및 링크를 표시 하였다.
 
-[##_Image|kage@bkje5l/btsFF4onEtJ/TkjlCgq1sEmP9KEpsIPlnk/img.png|CDM|1.3|{"originWidth":639,"originHeight":606,"style":"alignCenter","caption":"오픈소스 사용 고지 사항"}_##]
+![copyright](https://github.com/jykim74/jykim74.github.io/assets/23622335/b6badc21-2109-40eb-a2ea-198b9e217a12)
 
 ## 프로그램 패키지 고지 의무
 
 현재 배포한 프로그램을 설치 하면 COPYRIGHT 파일과 thirdparty\_license 폴더에 사용한 오픈소스 라이선스 정보 파일을 모두 같이 패키지 하였다.
 
-[##_Image|kage@wAGvl/btsFJBLLGPJ/JKDUaoRQcVxPkYZvHiabf0/img.png|CDM|1.3|{"originWidth":368,"originHeight":129,"style":"alignCenter"}_##]
+![publish](https://github.com/jykim74/jykim74.github.io/assets/23622335/70f0687e-d7bb-4e60-9e03-6357aafbce52)
+
 
 ## 내프로그램 오픈소스 처리 요약
 
