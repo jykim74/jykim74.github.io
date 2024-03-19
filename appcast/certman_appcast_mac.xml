@@ -2,12 +2,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>CertMan updates</title>
-		<link>https://jykim74.github.io/software/2024/03/08/CertManUpdate.html</link>
 		<description>Feed for CertMan updates</description>
 		<language>en</language>
 		<item>
 			<title>Version 1.7.0</title>
-			<sparkle:releaseNotesLink>https://jykim74.tistory.com/m/178</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CertManUpdate.html</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/CertManV170.dmg" sparkle:version="1.7.0"
 			sparkle:edSignature="ZZPgRgyjXZO1RelU28OUWGIbYRc3du1zI4fSvvV7k0kJjpdCrP6l50uWecdkTm+I+mKO2PXBrk6Q1RUbJF9TBQ==" length="16344371"
 			type="application/octet-stream"/>

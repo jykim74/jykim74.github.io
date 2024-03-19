@@ -2,12 +2,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>BerEditor updates</title>
-		<link>https://jykim74.github.io/software/2024/03/08/BerEditorUpdate.html</link>
 		<description>Feed for BerEditor updates</description>
 		<language>en</language>
 		<item>
 			<title>Version 1.7.0</title>
-			<sparkle:releaseNotesLink>https://jykim74.tistory.com/m/177</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/BerEditorUpdate.html</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/BerEditorV170.dmg" sparkle:version="1.7.0"
 			sparkle:edSignature="6d3AvLryLxBBcE+zojIyrTI8k9ghzwL4ckhEs5vTxP3keX1+cjG8/aOOCkuGMm16bd4ca//sCKByXXkqEa1zCQ==" length="15045470"
 			type="application/octet-stream"/>

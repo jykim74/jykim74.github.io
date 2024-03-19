@@ -2,12 +2,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>CryptokiMan updates</title>
-		<link>https://jykim74.github.io/software/2024/03/08/CryptokiUpdate.html</link>
 		<description>Feed for CryptokiMan updates</description>
 		<language>en</language>
 		<item>
 			<title>Version 1.7.0</title>
-			<sparkle:releaseNotesLink>https://jykim74.tistory.com/m/179</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CryptokiUpdate.html</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/CryptokiManV170.dmg" sparkle:version="1.7.0" 
 			sparkle:edSignature="z1nbgF/n+5Yta8t4a96VRp097eONhH6JiIckUST/ZaUdKrxqf6MJHnVI6wAtYa8/FrQOT1pcE/pCcY64/a92DQ==" length="15461024"
 			type="application/octet-stream"/>
