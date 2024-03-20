@@ -11,6 +11,9 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 [\[Download\] BerEditor Version 1.7.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV170.dmg)  
 [\[Download\] BerEditor Version 1.7.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV170.zip)
 
+## Version 1.7.2 업데이트
+- VID 생성 및 검증 기능 지원
+
 ## Version 1.7.0 업데이트
 
 -   저작권 표시 및 사용 오픈소스에 대한 저작권 정보 표시
