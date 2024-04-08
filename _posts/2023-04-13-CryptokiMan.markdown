@@ -16,7 +16,7 @@ This is a program I made personally, so if you have any questions or bugs, use [
 
 [[Download] CryptokiMan Version 1.7.0 (Linux64)](https://jykim74.github.io/zip/CryptokiManV170.zip, "CryptokiMan")
 
-If you would like to receive a license, please write to [Google Groups]( https://groups.google.com/g/cryptokiman, "Google Groups" ) about your intended use and we will send you a short-term (30 days) license file.Of course, you can apply for a license multiple times
+If you would like to receive a license, please write to [Google Groups]( https://groups.google.com/g/cryptokiman, "Google Groups" ) about license request and I will send you a short-term (30 days) license file.Of course, you can apply for a license multiple times
 
 This is a [Manual link]( https://jykim74.tistory.com/category/Manual/CryptokiMan "CryptokiMan Manual")  to the Korean manual page.
 Although it is lacking, the manual page supports a translator.
