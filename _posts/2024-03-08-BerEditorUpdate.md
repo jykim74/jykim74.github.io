@@ -11,6 +11,13 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 [\[Download\] BerEditor Version 1.7.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV172.dmg)  
 [\[Download\] BerEditor Version 1.7.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV172.zip)
 
+## Version 1.8.0 업데이트
+- 주요 메뉴 단축키 지원
+- 헥사 정보 고정 넓이 설정 지원
+- 데이타 인코딩 파일 읽기 지원
+- 라이선스 체크 변경 및 온라인 발급 지원
+- UI 개선 및 오타 수정
+  
 ## Version 1.7.2 업데이트
 - VID 생성 및 검증 기능 지원
 
