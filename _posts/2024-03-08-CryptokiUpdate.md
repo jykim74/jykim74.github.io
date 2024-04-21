@@ -12,6 +12,12 @@ CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )
 [\[Download\] CryptokiMan Version 1.7.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV170.dmg)  
 [\[Download\] CryptokiMan Version 1.7.0 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV170.zip)
 
+## Version 1.8.0 업데이트
+- 주요 메뉴 단축키 지원
+- 헥사 정보 고정 넓이 설정 지원
+- 라이선스 체크 변경 및 온라인 발급 지원
+- UI 개선 및 오타 수정
+  
 ## Version 1.7.0 업데이트
 
 -   저작권 표시 및 사용 오픈소스에 대한 저작권 정보 표시
