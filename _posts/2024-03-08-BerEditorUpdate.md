@@ -16,7 +16,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 - 헥사 정보 고정 넓이 설정 지원
 - 데이타 인코딩 파일 읽기 지원
 - 라이선스 체크 변경 및 온라인 발급 지원
-  * [라이선스 신청 페이지](http://jykim74.mycafe24.com/user_reg.php)
+  * [라이선스 신청 페이지](https://jykim74.mycafe24.com/user_reg.php)
   * [무료 라이선스 발급 방법](https://jykim74.tistory.com/notice/273)
 - UI 개선 및 오타 수정
   
