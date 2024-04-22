@@ -10,11 +10,11 @@ The file can be downloaded from this page link (size is about 30M)
 Actually, the module test was done with the library downloaded from https://www.opendnssec.org/softhsm/.
 This is a program I made personally, so if you have any questions or bugs, use [Google Groups]( https://groups.google.com/g/cryptokiman, "Google Groups" )
 
-[[Download] CryptokiMan Version 1.7.0 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV170.msi "CryptokiMan")
+[[Download] CryptokiMan Version 1.8.0 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV180.msi "CryptokiMan")
 
-[[Download] CryptokiMan Version 1.7.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV170.dmg, "CryptokiMan")
+[[Download] CryptokiMan Version 1.8.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV180.dmg, "CryptokiMan")
 
-[[Download] CryptokiMan Version 1.7.0 (Linux64)](https://jykim74.github.io/zip/CryptokiManV170.zip, "CryptokiMan")
+[[Download] CryptokiMan Version 1.8.0 (Linux64)](https://jykim74.github.io/zip/CryptokiManV180.zip, "CryptokiMan")
 
 If you would like to receive a license, please write to [Google Groups]( https://groups.google.com/g/cryptokiman, "Google Groups" ) about license request and I will send you a short-term (30 days) license file.Of course, you can apply for a license multiple times
 
