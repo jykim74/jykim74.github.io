@@ -15,8 +15,10 @@ CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://
 - 주요 메뉴 단축키 지원
 - 헥사 정보 고정 넓이 설정 지원
 - 라이선스 체크 변경 및 온라인 발급 지원
+  * [라이선스 신청 페이지](http://jykim74.mycafe24.com/user_reg.php)
+  * [무료 라이선스 발급 방법](https://jykim74.tistory.com/notice/273)
 - UI 개선 및 오타 수정
-- 
+  
 ## Version 1.7.0 업데이트
 
 -   저작권 표시 및 사용 오픈소스에 대한 저작권 정보 표시
