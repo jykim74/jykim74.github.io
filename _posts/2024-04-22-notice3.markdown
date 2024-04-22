@@ -17,7 +17,7 @@ It is structured so that the same issuing key cannot be used on other PCs or pro
 To obtain an online license, there are three steps: email registration, confirmation of the issuance key in the email, and application of the issuance key.
 
 1. Register your email address
-[License issuance request] Here, select your email address and the program you want to use to make a request.
+[License issuance request](http://jykim74.mycafe24.com/user_reg.php) Here, select your email address and the program you want to use to make a request.
 If the request is successful, a license issuance key will be sent to the registered email address.
 
 2. Check email issuance key
