@@ -20,7 +20,8 @@ This is a program I made personally, so if you have any questions or bugs, use [
 
 [[Download] BerEditor Version 1.8.0 (Linux64)]( https://jykim74.github.io/zip/BerEditorV180.zip "BerEditor" )
 
-If you would like to receive a license, please write to [Google Groups]( https://groups.google.com/g/bereditor, "Google Groups" ) about license request and I will send you a short-term (30 days) license file.Of course, you can apply for a license multiple times
+If you would like to receive a license, simply write a request in [Free License Request](http::/jykim7.mycafe24.com/user_reg.php) and you can receive a trial (30-day) license.
+Of course, you can apply for a license multiple times.
 
 This is a [Manual link]( https://jykim74.tistory.com/category/Manual/BerEditor "BerEditor Manual")  to the Korean manual page.
 Although it is lacking, the manual page supports a translator.
