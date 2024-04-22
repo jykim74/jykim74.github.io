@@ -1,0 +1,36 @@
+---
+layout: post
+title: "[BerEditor, CertMan, CryptokiMan] Issue a free license (30 days)"
+tags: [BerEditor,CertMan,CryptokiMan,Free License]
+category: Notice
+---
+BerEditor, CertMan and CryptokiMan support issuing short-term 30-day licenses online.
+All versions that support online short-term license issuance are supported only in Version 1.8.0 or higher.
+
+Additionally, licenses issued in 1.8.0 are not compatible with previous versions.
+If you received a license in a previous version, the license does not apply in 1.8.0.
+You must obtain a new one.
+
+Basically, the license standard is that one issuing key can be used on one PC and one program.
+It is structured so that the same issuing key cannot be used on other PCs or programs.
+
+To obtain an online license, there are three steps: email registration, confirmation of the issuance key in the email, and application of the issuance key.
+
+1. Register your email address
+[License issuance request] Here, select your email address and the program you want to use to make a request.
+If the request is successful, a license issuance key will be sent to the registered email address.
+
+2. Check email issuance key
+Check the license issuance key in the registered email address.
+It might go to spam, so if you don't get it, check your spam box.
+
+3. Apply issuing key program
+Enter your email and key information in the program license information and run Import.
+This will allow you to use the licensed features for 30 days.
+After the period has passed, you can request again.
+
+finish
+In the meantime, there were difficulties processing the license...
+It's been sorted out a bit.
+And by implementing the online license issuance function, there is no longer a need to manually send by email, making it more automated.
+
