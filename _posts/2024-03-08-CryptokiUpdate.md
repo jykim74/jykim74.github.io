@@ -4,13 +4,13 @@ title: "CryptokiMan Update History"
 tags: [Cryptoki, CryptokiMan, ECDSA, HSM, PKCS#11, PKI, RSA]
 category: Software
 ---
-CryptokiMan Version 1.7.0 업데이트 하였습니다.  
+CryptokiMan Version 1.8.0 업데이트 하였습니다.  
 이프로그램은 PKCS#11 Version 2.4 표준 문서를 기준으로 만들어 졌습니다.  
 CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )](https://jykim74.tistory.com/38) 을 참조하세요.
 
-[\[Download\] CryptokiMan Version 1.7.0 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV170.msi)  
-[\[Download\] CryptokiMan Version 1.7.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV170.dmg)  
-[\[Download\] CryptokiMan Version 1.7.0 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV170.zip)
+[\[Download\] CryptokiMan Version 1.8.0 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV180.msi)  
+[\[Download\] CryptokiMan Version 1.8.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV180.dmg)  
+[\[Download\] CryptokiMan Version 1.8.0 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV180.zip)
 
 ## Version 1.8.0 업데이트
 - 주요 메뉴 단축키 지원
