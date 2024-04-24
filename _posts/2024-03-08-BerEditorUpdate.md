@@ -13,6 +13,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 
 ## Version 1.8.0 업데이트
 - 주요 메뉴 단축키 지원
+- SSL Verify 오류 수정
 - 헥사 정보 고정 넓이 설정 지원
 - 데이타 인코딩 파일 읽기 지원
 - 라이선스 체크 변경 및 온라인 발급 지원
