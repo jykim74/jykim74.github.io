@@ -5,9 +5,9 @@
 		<description>Feed for BerEditor updates</description>
 		<language>en</language>
 		<item>
-			<title>Version 1.8.0</title>
+			<title>Version 1.8.2</title>
 			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/BerEditorUpdate.html</sparkle:releaseNotesLink>
-			<enclosure url="https://jykim74.github.io/msi/BerEditor-enV180.msi" sparkle:version="1.8.0" length="0" type="application/octet-stream"/>
+			<enclosure url="https://jykim74.github.io/msi/BerEditor-enV182.msi" sparkle:version="1.8.2" length="0" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
