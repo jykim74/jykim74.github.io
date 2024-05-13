@@ -4,12 +4,19 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 1.8.0 업데이트 하였습니다.  
+BerEditor 버전 1.8.2 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 1.8.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV180.msi)  
-[\[Download\] BerEditor Version 1.8.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV180.dmg)  
-[\[Download\] BerEditor Version 1.8.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV180.zip)
+[\[Download\] BerEditor Version 1.8.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV182.msi)  
+[\[Download\] BerEditor Version 1.8.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV182.dmg)  
+[\[Download\] BerEditor Version 1.8.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV182.zip)
+
+## Version 1.8.2 업데이트
+- SSL Verify 신뢰 처리 오류 수정
+- SSL Verify 신뢰 목록 추가에 대한 문의 처리
+- 숫자 변환 시 마이너스 10진수 처리 지원
+- 비트스트링 길이 표시 오류 수정
+- 그외 UI 개선
 
 ## Version 1.8.0 업데이트
 - 주요 메뉴 단축키 지원
