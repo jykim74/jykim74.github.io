@@ -16,6 +16,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 - SSL Verify 신뢰 목록 추가에 대한 문의 처리
 - 숫자 변환 시 마이너스 10진수 처리 지원
 - 비트스트링 길이 표시 오류 수정
+- BER 추가에서 (BitString, Integer, OID 텍스트 값을 Hex 값 변환 지원)
 - 그외 UI 개선
 
 ## Version 1.8.0 업데이트
