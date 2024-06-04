@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "BerEditor ( ASN.1 DER BER Viewer and Editor )"
-tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
+tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader, BigNum Calc]
 category: Software
 ---
 This tool is capable of editing  and viewing for BER and DER  data.
 BerEditor is ASN.1 viewer.
 
 
-In addition, there are PKI-related functions such as encryption/decryption, signing/verification, OTP generation, and viewing OID values required for PKI or crypto development.
+In addition, there are PKI-related functions such as encryption/decryption, signing/verification, OTP generation, BigNum calc and viewing OID values required for PKI or crypto development.
 
 The size is about 29M.
 
