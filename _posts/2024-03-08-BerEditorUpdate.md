@@ -18,8 +18,8 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
     *   개인키와 인증서 쌍관리 CA, CRL 그리고 신뢰 RootCA 관리 기능
     *   PFX 가져오기/내보내기 및 인증서 선택 기능 지원
     *   암호화 메뉴내에서 인증서 선택시 인증서 선택 지원
--   OCSP, TSP, CMP, SECP 클라이언트 기능 지원
-    *   자제 개발된 서버(OCSP, TSP, CMP, SECP) 연계용
+-   OCSP, TSP, CMP, SCEP 클라이언트 기능 지원
+    *   자제 개발된 서버(OCSP, TSP, CMP, SCEP) 연계용
 -   그외 UI 개선 및 오류 수정
   
 ## Version 1.8.4 업데이트
