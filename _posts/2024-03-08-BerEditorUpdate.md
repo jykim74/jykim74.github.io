@@ -4,12 +4,18 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 1.9.0 업데이트 하였습니다.  
+BerEditor 버전 1.9.2 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 1.9.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV190.msi)  
-[\[Download\] BerEditor Version 1.9.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV190.dmg)  
-[\[Download\] BerEditor Version 1.9.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV190.zip)
+[\[Download\] BerEditor Version 1.9.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV192.msi)  
+[\[Download\] BerEditor Version 1.9.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV192.dmg)  
+[\[Download\] BerEditor Version 1.9.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV192.zip)
+
+## Version 1.9.2 업데이트
+-   인증서 관리에서 다른 인증서 관리 기능 지원
+-   SSS 입력값 짧은 길이 제한
+-   Hash, Mac, Sign/Verify, Enc/Dec 파일 처리에서 쓰레딩 기능 지원
+-   UI 개선 및 오류 수정
 
 ## Version 1.9.0 업데이트
 -   키쌍 관리 기능
