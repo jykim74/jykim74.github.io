@@ -10,11 +10,11 @@ Supported algorithms are RSA and ECDSA algorithms.
 The file can be downloaded from this page link (size is about 30M)
 This is a program I made personally, so if you have any questions or bugs, please Use [Google Groups]( https://groups.google.com/g/certman, "Google Groups" )
 
-[[Download] CertMan Version 1.8.0 (Win64)](https://jykim74.github.io/msi/CertMan-enV180.msi "CertMan")
+[[Download] CertMan Version 1.8.2 (Win64)](https://jykim74.github.io/msi/CertMan-enV182.msi "CertMan")
 
-[[Download] CertMan Version 1.8.0 (MacOS)](https://jykim74.github.io/dmg/CertManV180.dmg, "CertMan")
+[[Download] CertMan Version 1.8.2 (MacOS)](https://jykim74.github.io/dmg/CertManV182.dmg, "CertMan")
 
-[[Download] CertMan Version 1.8.0 (Linux64)](https://jykim74.github.io/zip/CertManV180.zip, "CertMan")
+[[Download] CertMan Version 1.8.2 (Linux64)](https://jykim74.github.io/zip/CertManV182.zip, "CertMan")
 
 If you would like to receive a license, simply write a request in [Free License Request](https::/jykim7.mycafe24.com/user_reg.php) and you can receive a trial (30-day) license.
 Of course, you can apply for a license multiple times.

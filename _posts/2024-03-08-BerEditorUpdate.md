@@ -4,12 +4,19 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 1.9.2 업데이트 하였습니다.  
+BerEditor 버전 1.9.4 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 1.9.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV192.msi)  
-[\[Download\] BerEditor Version 1.9.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV192.dmg)  
-[\[Download\] BerEditor Version 1.9.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV192.zip)
+[\[Download\] BerEditor Version 1.9.4 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV194.msi)  
+[\[Download\] BerEditor Version 1.9.4 (MacOS)](https://jykim74.github.io/dmg/BerEditorV194.dmg)  
+[\[Download\] BerEditor Version 1.9.4 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV194.zip)
+
+## Version 1.9.4 업데이트
+
+-   KMIP 프로토콜 TTLV 포맷 인코딩/디코딩 지원
+    -   디코딩, 인코더, 클라이언트, 복사등 메뉴 지원
+-   입력 길이에서 Hex 길이에 홀수 입력 '\_' 표시
+-   UI 개선 수정 및 안정화
 
 ## Version 1.9.2 업데이트
 -   인증서 관리에서 다른 인증서 관리 기능 지원
