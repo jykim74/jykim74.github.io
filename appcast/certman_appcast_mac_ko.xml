@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>CertMan updates</title>
+		<description>Feed for CertMan updates</description>
+		<language>en</language>
+		<item>
+			<title>Version 1.8.2</title>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CertManUpdate.html</sparkle:releaseNotesLink>
+			<enclosure url="https://jykim74.github.io/dmg/CertManV182.dmg" sparkle:version="1.8.2"
+			sparkle:edSignature="KZy9cylw6bCG/vJa5jQiqMf5MOJO6Z/Eziw+ZMBFFPMoYvcC54FU3ufYv7klc2bWyobFMS2AtFM7RdJxbZIICQ==" length="16878354"
+			type="application/octet-stream"/>
+		</item>
+	</channel>
+</rss>
