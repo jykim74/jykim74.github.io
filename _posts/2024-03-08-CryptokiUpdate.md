@@ -15,6 +15,7 @@ CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )
 ## Version 1.8.2 업데이트
 
 -   파일 해시,서명/검증, 암/복호화 쓰레드 실행 지원
+- 	입력값 인코딩 체크 및 오류 (한글 입력) 수정
 -   입력 길이에서 Hex 길이에 홀수 입력 '\_' 표시
 -   UI 개선 수정 및 안정화
 

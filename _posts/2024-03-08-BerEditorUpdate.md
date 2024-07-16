@@ -13,6 +13,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 
 ## Version 1.9.6 업데이트
 - 개인키 공개키 보기 지원
+- 입력값 인코딩 체크 및 오류 (한글 입력) 수정
 - UI 개선 및 안정화
 
 ## Version 1.9.4 업데이트
