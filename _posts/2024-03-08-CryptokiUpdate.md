@@ -9,7 +9,7 @@ CryptokiMan Version 1.8.4 업데이트 하였습니다.
 CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )](https://jykim74.tistory.com/38) 을 참조하세요.
 
 [\[Download\] CryptokiMan Version 1.8.4 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV184.msi)  
-[\[Download\] CryptokiMan Version 1.8.2 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV182.dmg)  
+[\[Download\] CryptokiMan Version 1.8.4 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV184.dmg)  
 [\[Download\] CryptokiMan Version 1.8.4 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV184.zip)
 
 ## Version 1.8.4 업데이트

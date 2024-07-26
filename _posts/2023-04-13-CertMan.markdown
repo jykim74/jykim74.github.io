@@ -12,7 +12,7 @@ This is a program I made personally, so if you have any questions or bugs, pleas
 
 [[Download] CertMan Version 1.8.4 (Win64)](https://jykim74.github.io/msi/CertMan-enV184.msi "CertMan")
 
-[[Download] CertMan Version 1.8.2 (MacOS)](https://jykim74.github.io/dmg/CertManV182.dmg, "CertMan")
+[[Download] CertMan Version 1.8.4 (MacOS)](https://jykim74.github.io/dmg/CertManV184.dmg, "CertMan")
 
 [[Download] CertMan Version 1.8.4 (Linux64)](https://jykim74.github.io/zip/CertManV184.zip, "CertMan")
 
