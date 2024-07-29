@@ -39,6 +39,7 @@ Although it is lacking, the manual page supports a translator.
 | BER Edit | O | X |
 | SSL Verify | O | X |
 | Certificate Path Validation | O | X |
+| KMIP TTLV | O | X |
 
 
 
