@@ -15,7 +15,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 - BN 계산기 UI 개선
 - JSON, Text 보기 전체 및 부분보기 지원
 	* BER TTLV 둘다 지원
-	* 전체 보기에서 선택 영여 표시
+	* 전체 보기에서 선택 영역 표시
 	* SyntaxHilighter 제거(딜레이 없애기 위해)
 - EdDSA 서명/검증 오류 수정
 - 기타 성능 개선 및 안정화
