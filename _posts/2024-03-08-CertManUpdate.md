@@ -8,7 +8,7 @@ CertMan Version 1.8.4 업데이트 하였습니다.
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
 [\[Download\] CertMan Version 1.8.6 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV186.msi)  
-[\[Download\] CertMan Version 1.8.4 ( MacOS )](https://jykim74.github.io/dmg/CertManV184.dmg)  
+[\[Download\] CertMan Version 1.8.6 ( MacOS )](https://jykim74.github.io/dmg/CertManV186.dmg)  
 [\[Download\] CertMan Version 1.8.6 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV186.zip)
 
 ## Version 1.8.6 업데이트
