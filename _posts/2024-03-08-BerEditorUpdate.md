@@ -14,7 +14,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 ## Version 2.0.4 업데이트
 - Key Manage HKDF, ANSX963 KDF 지원
 - CMP, OCSP, TSP, SCEP 클라이언트 오류 수정
-- CertManage 오류 수정
+- CertMan 오류 수정
 - 안정화 및 UI 개선
 
 ## Version 2.0.2 업데이트
