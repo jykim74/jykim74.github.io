@@ -13,6 +13,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 
 ## Version 2.0.6 업데이트
 - ACVP 기본 알고리즘 부분 지원(기본 옵션 위주만 동작)
+- 인증서 관리 및 키 쌍 관리에서 서명/검증 및 공개키 암/복호화 연계 지원
 - Hash MCT alternate 지원
 - GMAC 에서 IV 입력 지원
 - DRBG 에서 Nonce 없는 경우 지원
