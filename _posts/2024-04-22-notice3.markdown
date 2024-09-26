@@ -25,9 +25,12 @@ Check the license issuance key in the registered email address.
 It might go to spam, so if you don't get it, check your spam box.
 
 3. Apply issuing key program
-Enter your email and key information in the program license information and run Import.
+Enter your email and key information in the program license information and click Get button.
 This will allow you to use the licensed features for 30 days.
 After the period has passed, you can request again.
+
+![license](https://github.com/user-attachments/assets/2e545593-bb55-4a8a-a6a9-746edf85606c)
+
 
 finish
 In the meantime, there were difficulties processing the license...
