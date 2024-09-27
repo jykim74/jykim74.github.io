@@ -4,6 +4,7 @@ title: "[BerEditor, CertMan, CryptokiMan] Issue a free license (30 days)"
 tags: [BerEditor,CertMan,CryptokiMan,Free License]
 category: Notice
 ---
+
 BerEditor, CertMan and CryptokiMan support issuing short-term 30-day licenses online.
 All versions that support online short-term license issuance are supported only in Version 1.8.0 or higher.
 
@@ -32,7 +33,6 @@ After the period has passed, you can request again.
 ![license](https://github.com/user-attachments/assets/2e545593-bb55-4a8a-a6a9-746edf85606c)
 
 
-finish
 In the meantime, there were difficulties processing the license...
 It's been sorted out a bit.
 And by implementing the online license issuance function, there is no longer a need to manually send by email, making it more automated.
