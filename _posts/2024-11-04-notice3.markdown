@@ -8,7 +8,7 @@ category: Notice
 Hello. I am a JayKim developer.
 
 For the BerEditor, CertMan, and CryptokiMan programs provided here,
-30-day licenses are issued [here] (https://jykim74.github.io/notice/2024/04/22/notice3.html, "License Issue" )
+30-day licenses are issued [here]https://jykim74.github.io/notice/2024/04/22/notice3.html )
 Please note that licenses are issued free of charge to anyone, and those who have already received them can continue to receive them.
 
 The license issuance link is not Tistory, but a web hosting server.
@@ -16,7 +16,7 @@ The license issuance link is not Tistory, but a web hosting server.
 
 Since there were not many users, I did not know that there were errors,
 but I recently found out that some people are experiencing license-related errors..
-If you have any questions or inquiries, please send a message to [GoogleGroups] ( https://groups.google.com/g/bereditor, "Google Groups" ) or my email jykim74@gmail.com.
+If you have any questions or inquiries, please send a message to [GoogleGroups] ( https://groups.google.com/g/bereditor ) or my email jykim74@gmail.com.
 Please let me know the error-related message.
 
 Currently, I have responded to the expected problems..
