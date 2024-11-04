@@ -8,7 +8,7 @@ category: Notice
 Hello. I am a JayKim developer.
 
 For the BerEditor, CertMan, and CryptokiMan programs provided here,
-30-day licenses are issued [here]https://jykim74.github.io/notice/2024/04/22/notice3.html )
+30-day licenses are issued [here] (https://jykim74.github.io/notice/2024/04/22/notice3.html )
 Please note that licenses are issued free of charge to anyone, and those who have already received them can continue to receive them.
 
 The license issuance link is not Tistory, but a web hosting server.
