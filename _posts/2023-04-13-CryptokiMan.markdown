@@ -10,11 +10,11 @@ The file can be downloaded from this page link (size is about 30M)
 Actually, the module test was done with the library downloaded from https://www.opendnssec.org/softhsm/.
 This is a program I made personally, so if you have any questions or bugs, use [Google Groups]( https://groups.google.com/g/cryptokiman, "Google Groups" )
 
-[[Download] CryptokiMan Version 1.9.0 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV190.msi "CryptokiMan")
+[[Download] CryptokiMan Version 1.9.2 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV192.msi "CryptokiMan")
 
-[[Download] CryptokiMan Version 1.9.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV190.dmg, "CryptokiMan")
+[[Download] CryptokiMan Version 1.9.2 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV192.dmg, "CryptokiMan")
 
-[[Download] CryptokiMan Version 1.9.0 (Linux64)](https://jykim74.github.io/zip/CryptokiManV190.zip, "CryptokiMan")
+[[Download] CryptokiMan Version 1.9.2 (Linux64)](https://jykim74.github.io/zip/CryptokiManV192.zip, "CryptokiMan")
 
 If you would like to receive a license, simply write a request in [Free License Request](https::/jykim7.mycafe24.com/user_reg.php) and you can receive a trial (30-day) license.
 Of course, you can apply for a license multiple times.
@@ -26,14 +26,17 @@ Although it is lacking, the manual page supports a translator.
 
 |classification|License Version|Unlicensed Version|
 |---|---|---|
-| Asymmetric Algorithm | RSA, ECDSA, DSA, DH | RSA |
-| Symmetric Algorithm | AES, DES3 | AES |
-| HASH, HMAC, Sign, Encrypt File support | O | X |
+| RSA,ECC,DSA Key Create | O | X |
+| Random | O | X |
+| HASH, HMAC, Sign, Encrypt | O | X |
 | Import | O | X |
 | PIN Init, Set | O | X |
 | Wrap, Unwrap, Derive | O | X |
 | Object Edit | O | X |
 | Object Delete | O | X |
+| Make CSR | O | X |
+| PriKey PubKey View | O | X |
+| PriKey PubKey Export | O | X |
 
 
 [Screen Shot]
