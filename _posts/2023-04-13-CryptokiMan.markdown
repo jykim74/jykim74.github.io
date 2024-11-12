@@ -41,4 +41,4 @@ Although it is lacking, the manual page supports a translator.
 
 [Screen Shot]
 
-![cryptokiman](https://github.com/jykim74/jykim74.github.io/assets/23622335/427e055e-bf80-44d2-808b-e5a1ec7d174b)
+![cryptokiman](https://github.com/user-attachments/assets/6f6cab3e-1634-44e1-b3aa-edfbb889e641)
