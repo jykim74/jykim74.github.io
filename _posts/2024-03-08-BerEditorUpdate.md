@@ -15,7 +15,8 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 - 키 목록 관리 기능 지원
 - XML, JSON, Text 보기 라인 표시 및 개선
 - 정보 보기 라인 표시
-- 안정화 및 오류 수정
+- 안정화 및 UI 개선
+- 오류 수정 (중요 버그 수정 되었으니 꼭 업데이트 하세요)
 
 ## Version 2.1.2 업데이트
 - BER TTLV 찾기 기능 지원
