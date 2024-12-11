@@ -5,10 +5,10 @@
 		<description>Feed for CryptokiMan updates</description>
 		<language>en</language>
 		<item>
-			<title>Version 1.9.6</title>
+			<title>Version 1.9.8</title>
 			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CryptokiUpdate.html</sparkle:releaseNotesLink>
-			<enclosure url="https://jykim74.github.io/dmg/CryptokiManV196.dmg" sparkle:version="1.9.6" 
-			sparkle:edSignature="Grdu/14dUhUcQ9lgWKg4UsY34YFoMNMAHljKfLEsuZa/d7T8/PKj8xXjHK6srRzDkmUEKUo9fNeyPgwARUMzAw==" length="16426024"
+			<enclosure url="https://jykim74.github.io/dmg/CryptokiManV198.dmg" sparkle:version="1.9.8" 
+			sparkle:edSignature="cRHV88SBOfKzHk4llW3q7ufiHteNBcsh4JADk7bR9X56l9KI3Uqi8GjMSHy/mEs7v3c00Oi+c1t11hueCIVqDA==" length="16453303"
 			type="application/octet-stream"/>
 		</item>
 	</channel>
