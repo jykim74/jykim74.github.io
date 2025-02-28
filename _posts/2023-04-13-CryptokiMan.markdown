@@ -10,11 +10,11 @@ The file can be downloaded from this page link (size is about 30M)
 Actually, the module test was done with the library downloaded from https://www.opendnssec.org/softhsm/.
 This is a program I made personally, so if you have any questions or bugs, use [Google Groups]( https://groups.google.com/g/cryptokiman, "Google Groups" )
 
-[[Download] CryptokiMan Version 2.0.0 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV200.msi "CryptokiMan")
+[[Download] CryptokiMan Version 2.0.2 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV202.msi "CryptokiMan")
 
 [[Download] CryptokiMan Version 2.0.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV200.dmg, "CryptokiMan")
 
-[[Download] CryptokiMan Version 2.0.0 (Linux64)](https://jykim74.github.io/zip/CryptokiManV200.zip, "CryptokiMan")
+[[Download] CryptokiMan Version 2.0.2 (Linux64)](https://jykim74.github.io/zip/CryptokiManV202.zip, "CryptokiMan")
 
 If you would like to receive a license, simply write a request in [Free License Request](https::/jykim7.mycafe24.com/user_reg.php) and you can receive a trial (30-day) license.
 Of course, you can apply for a license multiple times.
