@@ -4,12 +4,17 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 2.2.0 업데이트 하였습니다.  
+BerEditor 버전 2.2.2 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.2.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV220.msi)  
-[\[Download\] BerEditor Version 2.2.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV220.dmg)  
-[\[Download\] BerEditor Version 2.2.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV220.zip)
+[\[Download\] BerEditor Version 2.2.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV222.msi)  
+[\[Download\] BerEditor Version 2.2.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV222.dmg)  
+[\[Download\] BerEditor Version 2.2.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV222.zip)
+
+## Version 2.2.2 업데이트
+- 키 관리에서 SCrypt 지원
+- SSL 체크에서 신뢰인증서 게시 오류 수정
+- 일부 UI 개선
 
 ## Version 2.2.0 업데이트
 - SM2 알고리즘 지원
