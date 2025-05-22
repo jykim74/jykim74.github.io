@@ -4,12 +4,17 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 2.2.4 업데이트 하였습니다.  
+BerEditor 버전 2.2.6 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.2.4 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV224.msi)  
-[\[Download\] BerEditor Version 2.2.4 (MacOS)](https://jykim74.github.io/dmg/BerEditorV224.dmg)  
-[\[Download\] BerEditor Version 2.2.4 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV224.zip)
+[\[Download\] BerEditor Version 2.2.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV226.msi)  
+[\[Download\] BerEditor Version 2.2.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV226.dmg)  
+[\[Download\] BerEditor Version 2.2.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV226.zip)
+
+## Version 2.2.6 업데이트
+- 숫자 변환기 UI 개선
+- UI 설명 메세지 일부 추가
+- 오류 수정 및 안정화
 
 ## Version 2.2.4 업데이트
 - 빅넘 계산이 1자리 수 오류 수정
