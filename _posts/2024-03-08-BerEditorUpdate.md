@@ -4,12 +4,17 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 2.2.6 업데이트 하였습니다.  
+BerEditor 버전 2.2.8 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.2.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV226.msi)  
-[\[Download\] BerEditor Version 2.2.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV226.dmg)  
-[\[Download\] BerEditor Version 2.2.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV226.zip)
+[\[Download\] BerEditor Version 2.2.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV228.msi)  
+[\[Download\] BerEditor Version 2.2.8 (MacOS)](https://jykim74.github.io/dmg/BerEditorV228.dmg)  
+[\[Download\] BerEditor Version 2.2.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV228.zip)
+
+## Version 2.2.8 업데이트
+- Shamir Secret Sharing 오류 수정 및 안정화
+- 테이블 헤더 UI 활성화 처리 제거
+- UI 개선
 
 ## Version 2.2.6 업데이트
 - 숫자 변환기 UI 개선
