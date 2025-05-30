@@ -31,6 +31,7 @@ Although it is lacking, the manual page supports a translator.
 | DB Password change | O | X |
 | LDAP Publish | O | X |
 | Certificate Renew | O | X |
+| HSM PKCS11 | O | X |
 
 [Screen Shot]
 ![certman_eng](https://user-images.githubusercontent.com/23622335/231696165-fe011640-a552-4a33-a483-43d4ec50afa4.png)
