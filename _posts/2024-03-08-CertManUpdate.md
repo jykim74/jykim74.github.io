@@ -7,9 +7,13 @@ category: Software
 CertMan Version 2.0.2 업데이트 하였습니다.  
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
-[\[Download\] CertMan Version 2.0.2 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV202.msi)  
-[\[Download\] CertMan Version 2.0.2 ( MacOS )](https://jykim74.github.io/dmg/CertManV202.dmg)  
-[\[Download\] CertMan Version 2.0.2 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV202.zip)
+[\[Download\] CertMan Version 2.0.4 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV204.msi)  
+[\[Download\] CertMan Version 2.0.4 ( MacOS )](https://jykim74.github.io/dmg/CertManV204.dmg)  
+[\[Download\] CertMan Version 2.0.4 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV204.zip)
+
+## Version 2.0.4 업데이트
+- 파일 선택시 최근 경로 읽기
+- 오류 메세지 개선
 
 ## Version 2.0.2 업데이트
 - CRL DB 스키마 변경 (이전 버전 호환이 안됨)

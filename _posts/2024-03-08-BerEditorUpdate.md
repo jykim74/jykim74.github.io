@@ -7,9 +7,13 @@ category: Software
 BerEditor 버전 2.2.8 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.2.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV228.msi)  
-[\[Download\] BerEditor Version 2.2.8 (MacOS)](https://jykim74.github.io/dmg/BerEditorV228.dmg)  
-[\[Download\] BerEditor Version 2.2.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV228.zip)
+[\[Download\] BerEditor Version 2.3.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV230.msi)  
+[\[Download\] BerEditor Version 2.3.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV230.dmg)  
+[\[Download\] BerEditor Version 2.3.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV230.zip)
+
+## Version 2.3.0 업데이트
+- 파일 선택시 최근 경로 읽기
+- CMS UI 개선
 
 ## Version 2.2.8 업데이트
 - Shamir Secret Sharing 오류 수정 및 안정화
