@@ -9,7 +9,9 @@ CryptokiMan Version 2.0.6 업데이트 하였습니다.
 CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )](https://jykim74.tistory.com/38) 을 참조하세요.
 
 [\[Download\] CryptokiMan Version 2.0.8 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV208.msi)  
+
 [\[Download\] CryptokiMan Version 2.0.8 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV208.dmg)
+
 [\[Download\] CryptokiMan Version 2.0.8 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV208.zip)
 
 ## Version 2.0.8 업데이트
