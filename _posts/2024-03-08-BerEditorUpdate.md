@@ -4,12 +4,23 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 2.2.8 업데이트 하였습니다.  
+BerEditor 버전 2.3.2 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.3.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV230.msi)  
+[\[Download\] BerEditor Version 2.3.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV232.msi)  
 [\[Download\] BerEditor Version 2.3.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV230.dmg)  
-[\[Download\] BerEditor Version 2.3.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV230.zip)
+[\[Download\] BerEditor Version 2.3.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV232.zip)
+
+## Version 2.3.2 업데이트
+- 키 동의(KeyAgree)에서 DH 파라미터 가져오기 내보내기 지원
+- X509 ( Certificate, CRL, CSR ) 비교 기능
+- 빅넘 계산이에서 타이머 표시 지원
+- 폰트 설정 모노스페이스 폰트로 제한
+- SSL 정보 트리 및 로그 창 DockWidget 처리
+- 인증서 정보 창에서 OCSPClient, CA CRL BER 가져오기 기능 추가
+- OCSP Client 에서 Nonce 입력 지원 및 응답 CertID 보기 지원
+- KMIP Encoder UI 전체 개선
+- 다수 UI 개선 및 오류 수정
 
 ## Version 2.3.0 업데이트
 - 파일 선택시 최근 경로 읽기
