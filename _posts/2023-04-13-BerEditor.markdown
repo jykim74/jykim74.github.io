@@ -18,7 +18,7 @@ This is a program I made personally, so if you have any questions or bugs, use [
 
 [[Download] BerEditor Version 2.3.2 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV232.msi "BerEditor" )
 
-[[Download] BerEditor Version 2.3.0 (MacOS)]( https://jykim74.github.io/dmg/BerEditorV230.dmg "BerEditor" )
+[[Download] BerEditor Version 2.3.2 (MacOS)]( https://jykim74.github.io/dmg/BerEditorV232.dmg "BerEditor" )
 
 [[Download] BerEditor Version 2.3.2 (Linux64)]( https://jykim74.github.io/zip/BerEditorV232.zip "BerEditor" )
 
