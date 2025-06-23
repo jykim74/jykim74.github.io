@@ -40,6 +40,7 @@ Although it is lacking, the manual page supports a translator.
 | SSL Verify | O | X |
 | Certificate Path Validation | O | X |
 | KMIP TTLV | O | X |
+| X509 Compare | O | X |
 
 
 
