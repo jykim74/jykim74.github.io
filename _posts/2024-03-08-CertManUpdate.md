@@ -4,12 +4,18 @@ title: "CertMan Update History"
 tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,CSR,KeyPair]
 category: Software
 ---
-CertMan Version 2.0.2 업데이트 하였습니다.  
+CertMan Version 2.0.6 업데이트 하였습니다.  
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
-[\[Download\] CertMan Version 2.0.4 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV204.msi)  
-[\[Download\] CertMan Version 2.0.4 ( MacOS )](https://jykim74.github.io/dmg/CertManV204.dmg)  
-[\[Download\] CertMan Version 2.0.4 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV204.zip)
+[\[Download\] CertMan Version 2.0.6 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV206.msi)  
+[\[Download\] CertMan Version 2.0.6 ( MacOS )](https://jykim74.github.io/dmg/CertManV206.dmg)  
+[\[Download\] CertMan Version 2.0.6 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV206.zip)
+
+## Version 2.0.6 업데이트
+- 인증서, CRL 프로파일 보기 개선
+- 폰트 선택을 고정폭으로 제한
+- 다수 UI 개선 및 안정화
+
 
 ## Version 2.0.4 업데이트
 - 파일 선택시 최근 경로 읽기
