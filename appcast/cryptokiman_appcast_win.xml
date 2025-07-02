@@ -5,9 +5,9 @@
 		<description>Feed for CryptokiMan updates</description>
 		<language>en</language>
 		<item>
-			<title>Version 2.1.0</title>
+			<title>Version 2.1.2</title>
 			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CryptokiUpdate.html</sparkle:releaseNotesLink>
-			<enclosure url="https://jykim74.github.io/msi/CryptokiMan-enV210.msi" sparkle:version="2.1.0" length="0" type="application/octet-stream"/>
+			<enclosure url="https://jykim74.github.io/msi/CryptokiMan-enV212.msi" sparkle:version="2.1.2" length="0" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
