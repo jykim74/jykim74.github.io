@@ -4,12 +4,20 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 2.3.6 업데이트 하였습니다.  
+BerEditor 버전 2.3.8 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.3.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV236.msi)  
-[\[Download\] BerEditor Version 2.3.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV236.dmg)  
-[\[Download\] BerEditor Version 2.3.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV236.zip)
+[\[Download\] BerEditor Version 2.3.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV238.msi)  
+[\[Download\] BerEditor Version 2.3.8 (MacOS)](https://jykim74.github.io/dmg/BerEditorV238.dmg)  
+[\[Download\] BerEditor Version 2.3.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV238.zip)
+
+## Version 2.3.8 업데이트
+- CertMan, KeyPairMan, KeyList 마우스 우클릭 메뉴 지원
+- X509 비교에서 CRL 보기 오류 수정
+- 서명/검증 공개키 암복호화에서 KeyPairMan 지원
+- 데이타 변환기에서 바이너리 파일 쓰기 지원
+- 개인키 PEM 형식시 헤더 오류 수정
+- 다수 오류 수정 및 UI 개선
 
 ## Version 2.3.6 업데이트
 - ACME 클라이언트 기능 추가
