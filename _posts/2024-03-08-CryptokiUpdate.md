@@ -4,15 +4,20 @@ title: "CryptokiMan Update History"
 tags: [Cryptoki, CryptokiMan, ECDSA, HSM, PKCS#11, PKI, RSA]
 category: Software
 ---
-CryptokiMan Version 2.1.2 업데이트 하였습니다.  
+CryptokiMan Version 2.1.4 업데이트 하였습니다.  
 이프로그램은 PKCS#11 Version 2.4 표준 문서를 기준으로 만들어 졌습니다.  
 CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )](https://jykim74.tistory.com/38) 을 참조하세요.
 
-[\[Download\] CryptokiMan Version 2.1.2 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV212.msi)  
+[\[Download\] CryptokiMan Version 2.1.4 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV214.msi)  
 
-[\[Download\] CryptokiMan Version 2.1.2 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV212.dmg)
+[\[Download\] CryptokiMan Version 2.1.4 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV214.dmg)
 
-[\[Download\] CryptokiMan Version 2.1.2 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV212.zip)
+[\[Download\] CryptokiMan Version 2.1.4 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV214.zip)
+
+## Version 2.1.4 업데이트
+- CAMan ProfileMan 마우스 우클릭 지원
+- Export 시 개인키 공개키 PEM 헤더 표시 오류 수정
+- UI 개선
 
 ## Version 2.1.2 업데이트
 - 인증서 CRL 에서 2038년 이후 시간처리 오류 수정
