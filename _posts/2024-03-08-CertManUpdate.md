@@ -12,7 +12,7 @@ CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://
 [\[Download\] CertMan Version 2.1.2 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV212.zip)
 
 ## Version 2.1.2 업데이트
-- CAMan ProfileMan 마우스 우클릭 지원
+- HsmMan 마우스 우클릭 지원
 - Export 시 개인키 공개키 PEM 헤더 표시 오류 수정
 - UI 개선
 
