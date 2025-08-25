@@ -4,12 +4,18 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
 category: Software
 ---
-BerEditor 버전 2.3.8 업데이트 하였습니다.  
+BerEditor 버전 2.4.0 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.3.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV238.msi)  
+[\[Download\] BerEditor Version 2.4.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV240.msi)  
 [\[Download\] BerEditor Version 2.3.8 (MacOS)](https://jykim74.github.io/dmg/BerEditorV238.dmg)  
-[\[Download\] BerEditor Version 2.3.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV238.zip)
+[\[Download\] BerEditor Version 2.4.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV240.zip)
+
+## Version 2.4.0 업데이트
+- CMS 보기에서 TSP 메세지 보기 지원
+- 종료시 파일 저장 유무는 경로 존재시만 묻기
+- TSP 클라이언트에서 사용자 인증 요청 지원
+- 오류 수정 및 UI 개선
 
 ## Version 2.3.8 업데이트
 - CertMan, KeyPairMan, KeyList 마우스 우클릭 메뉴 지원
