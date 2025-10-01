@@ -1,15 +1,21 @@
 ---
 layout: post
 title: "CertMan Update History"
-tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,CSR,KeyPair]
+tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,PQC,ML-DSA,SLH-DSA]
 category: Software
 ---
-CertMan Version 2.1.4 업데이트 하였습니다.  
+CertMan Version 2.2.0 업데이트 하였습니다.  
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
-[\[Download\] CertMan Version 2.1.4 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV214.msi)  
-[\[Download\] CertMan Version 2.1.4 ( MacOS )](https://jykim74.github.io/dmg/CertManV214.dmg)  
-[\[Download\] CertMan Version 2.1.4 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV214.zip)
+[\[Download\] CertMan Version 2.2.0 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV220.msi)  
+[\[Download\] CertMan Version 2.2.0 ( MacOS )](https://jykim74.github.io/dmg/CertManV220.dmg)  
+[\[Download\] CertMan Version 2.2.0 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV220.zip)
+
+## Version 2.2.0 업데이트
+- PQC 알고리즘 ML-DSA, SLH-DSA 키쌍, 인증서, CSR, CRL 발급 지원
+- OpenSSL 라이브러리 3.5.3 적용
+- 인증서, CSR, 개인키 보기에서 KID 표시
+- UI 개선 및 다수 오류 수정
 
 ## Version 2.1.4 업데이트
 - CRL 생성 오류 수정

@@ -1,15 +1,28 @@
 ---
 layout: post
 title: "BerEditor Update History"
-tags: [ASN.1,ASN.1 viewer, BER, BER reader, BER viewer, DER ,DER reader]
+tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.4.4 업데이트 하였습니다.  
+BerEditor 버전 2.5.0 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.4.4 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV244.msi)  
-[\[Download\] BerEditor Version 2.4.4 (MacOS)](https://jykim74.github.io/dmg/BerEditorV244.dmg) 
-[\[Download\] BerEditor Version 2.4.4 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV244.zip)
+[\[Download\] BerEditor Version 2.5.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV250.msi)  
+
+[\[Download\] BerEditor Version 2.5.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV250.dmg) 
+
+[\[Download\] BerEditor Version 2.5.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV250.zip)
+
+
+## Version 2.5.0 업데이트
+- PQC 알고리즘 ML-KEM, ML-DSA, SLH 지원( 키생성, CSR, 전자서명, 인증서)
+- 해시 지원 알고리즘 추가 : SHAKE128, SHAKE256, SHA3 모두
+- 인증서, 개인키보기, CSR 보기에서 KID 표시
+- 키 관리(Key Manage) 에서 KEM 기능 추가
+- BER 주요 포맷 체크 기능 추가
+- MAC 검증 기능 추가
+- OpenSSL 3.5.3 라이브러리 적용
+- UI 개선 및 다수 오류 수정
 
 ## Version 2.4.4 업데이트
 - Doc Signer 기능 추가
