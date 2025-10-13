@@ -4,12 +4,16 @@ title: "CertMan Update History"
 tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,PQC,ML-DSA,SLH-DSA]
 category: Software
 ---
-CertMan Version 2.2.0 업데이트 하였습니다.  
+CertMan Version 2.2.2 업데이트 하였습니다.  
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
-[\[Download\] CertMan Version 2.2.0 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV220.msi)  
-[\[Download\] CertMan Version 2.2.0 ( MacOS )](https://jykim74.github.io/dmg/CertManV220.dmg)  
-[\[Download\] CertMan Version 2.2.0 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV220.zip)
+[\[Download\] CertMan Version 2.2.2 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV222.msi)  
+[\[Download\] CertMan Version 2.2.2 ( MacOS )](https://jykim74.github.io/dmg/CertManV222.dmg)  
+[\[Download\] CertMan Version 2.2.2 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV222.zip)
+
+## Version 2.2.2 업데이트
+- 인증서 정보 서명값 표시 비트스트링 BER 헤더 제거
+- 다수의 오류 수정 및 UI 개선
 
 ## Version 2.2.0 업데이트
 - PQC 알고리즘 ML-DSA, SLH-DSA 키쌍, 인증서, CSR, CRL 발급 지원
