@@ -22,20 +22,20 @@ To generate a key pair, run BerEditor -> Service -> KeyPair Manager.
 
 In KeyPair Manager, select "Generate KeyPair."
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23622335/502415448-571b1fb1-dde7-4573-b0a0-fd9c27959304.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251017T074401Z&X-Amz-Expires=300&X-Amz-Signature=6548740b89ac819e88c5ca9f8225a52128e2a4cf21dd85f59e1330d8be3fd52d&X-Amz-SignedHeaders=host">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FrvtR5%2FdJMb9W6uCWR%2FAAAAAAAAAAAAAAAAAAAAAHb2UxFj3oCyUdB38qY8RXv4jFMFE-zEqRVZ7del4zHt%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DhUO%252B67IBmavuO%252BsyMHw50k0uxY4%253D">
 
 In the KeyPair window, enter the key pair name and select ML DSA in the PQC section.
 
 For KeyLength, select one of the three options (DSA\_44, DSA\_65, DSA\_87). It becomes
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23622335/502415688-cc50d925-46e9-4766-9090-c0ee002d3337.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251017T074130Z&X-Amz-Expires=300&X-Amz-Signature=9dfd21d80286347aa5d4f5594bf92fa76319fd89faf055ec747746c2193e04bb&X-Amz-SignedHeaders=host">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fqdeyi%2FdJMb9PTT0K4%2FAAAAAAAAAAAAAAAAAAAAAJRA_RsH7Uz2KZPUIiKoHAU_UTW5tpfibIStYu56XI7x%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FnJNwselnDtzZ4NHPaO2I9%252BQxiQ%253D">
 
 
 Once the key pair is created, you can check it using the name you entered in the KeyPair Manager.
 
 To view the key's detailed value, double-click the key.
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23622335/502415801-4c06acf6-d515-4e84-b325-f32cbee91a7d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251017T074208Z&X-Amz-Expires=300&X-Amz-Signature=7ea350f20b062612eaef4dadf229e0ba75af26df4540c2c3f7b2d4f311b62c23&X-Amz-SignedHeaders=host">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fewxg3Z%2FdJMb9OAGMNz%2FAAAAAAAAAAAAAAAAAAAAAP2mUw6n37wtFkegQ1Ti2ldZnl9PM-9j34T16vuHbErL%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DGir%252BL3FPsSN29Rr4N6rnnEFGsA8%253D">
 
 
 ## Creating an ML-DSA Digital Signature
@@ -52,7 +52,7 @@ After entering the input data and clicking the Sign button, select the previousl
 
 Selecting the key will display the signature value in the Signature field.
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23622335/502415941-ad4b59c4-c7c5-4117-8be7-68b3f4b6dea4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251017T074246Z&X-Amz-Expires=300&X-Amz-Signature=d03dac686a9973256033b46e152981db5e54613ad0e1565abee6ef358bff12cd&X-Amz-SignedHeaders=host">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbzgQX7%2FdJMb9jtRBBF%2FAAAAAAAAAAAAAAAAAAAAAI_AFpHBUCTd28sqJ10K72_eoiOheQlPe2AmWKCN21tz%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DqNPLcy8uaEbTmPgcoXQk%252B%252Bb7df0%253D">
 
 ## Verifying an ML-DSA Digital Signature
 
@@ -62,7 +62,7 @@ In that window, click the "Verify" radio button.
 
 Enter the input data and signature values, then click the "Verify" button. The signature verification results will be displayed.
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23622335/502416085-5f411630-9eff-4190-9d59-6a805cfdb338.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251017T074315Z&X-Amz-Expires=300&X-Amz-Signature=c7dff71dcbd56b72f7e4942fea3da931129e77d33413c0a406dd28fc4c56f125&X-Amz-SignedHeaders=host">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FpN2EU%2FdJMb9bWTUlS%2FAAAAAAAAAAAAAAAAAAAAADUb3i_mdIv_MN4epRUhY5gc-xT9aKXFjr2oh66J7LBq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3D96QVWAHBswbYkXW6B001C%252FKRdDI%253D">
 
 ## Conclusion
 
