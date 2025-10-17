@@ -20,20 +20,20 @@ To generate a key pair, run BerEditor -> Service -> KeyPair Manager.
 
 In KeyPair Manager, select "Generate KeyPair."
 
-![bereditor_eng]("https://github.com/user-attachments/assets/571b1fb1-dde7-4573-b0a0-fd9c27959304")
+<img src="https://github.com/user-attachments/assets/571b1fb1-dde7-4573-b0a0-fd9c27959304">
 
 In the KeyPair window, enter the key pair name and select ML DSA in the PQC section.
 
 For KeyLength, select one of the three options (DSA\_44, DSA\_65, DSA\_87). It becomes
 
-![bereditor_eng]("https://github.com/user-attachments/assets/cc50d925-46e9-4766-9090-c0ee002d3337")
+<img src="https://github.com/user-attachments/assets/cc50d925-46e9-4766-9090-c0ee002d3337">
 
 
 Once the key pair is created, you can check it using the name you entered in the KeyPair Manager.
 
 To view the key's detailed value, double-click the key.
 
-![bereditor_eng]("https://github.com/user-attachments/assets/4c06acf6-d515-4e84-b325-f32cbee91a7d")
+<img src="https://github.com/user-attachments/assets/4c06acf6-d515-4e84-b325-f32cbee91a7d">
 
 
 ## Creating an ML-DSA Digital Signature
@@ -50,7 +50,7 @@ After entering the input data and clicking the Sign button, select the previousl
 
 Selecting the key will display the signature value in the Signature field.
 
-![bereditor_eng]("https://github.com/user-attachments/assets/ad4b59c4-c7c5-4117-8be7-68b3f4b6dea4")
+<img src="https://github.com/user-attachments/assets/ad4b59c4-c7c5-4117-8be7-68b3f4b6dea4">
 
 ## Verifying an ML-DSA Digital Signature
 
@@ -60,7 +60,7 @@ In that window, click the "Verify" radio button.
 
 Enter the input data and signature values, then click the "Verify" button. The signature verification results will be displayed.
 
-![bereditor_eng]("https://github.com/user-attachments/assets/5f411630-9eff-4190-9d59-6a805cfdb338")
+<img src="https://github.com/user-attachments/assets/5f411630-9eff-4190-9d59-6a805cfdb338">
 
 ## Conclusion
 
