@@ -20,19 +20,21 @@ To generate a key pair, run BerEditor -> Service -> KeyPair Manager.
 
 In KeyPair Manager, select "Generate KeyPair."
 
-[##_Image|kage@rvtR5/dJMb9W6uCWR/AAAAAAAAAAAAAAAAAAAHb2UxFj3oCyUdB38qY8RXv4jFMFE-zEqRVZ7del4zHt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1761922799&amp;allo w_ip=&amp;allow_referer=&amp;signature=hUO%2B67IBmavuO%2BsyMHw50k0uxY4%3D|CDM|1.3|{"originWidth":603,"originHeight":480,"style":"alignCenter","width":422,"height":336,"caption":"KeyPair Manager execution screen"}_##]
+<img width="427" height="328" alt="image" src="https://github.com/user-attachments/assets/571b1fb1-dde7-4573-b0a0-fd9c27959304" />
 
 In the KeyPair window, enter the key pair name and select ML DSA in the PQC section.
 
 For KeyLength, select one of the three options (DSA\_44, DSA\_65, DSA\_87). It becomes
 
-[##_Image|kage@qdeyi/dJMb9PTT0K4/AAAAAAAAAAAAAAAAAAAAAJRA_RsH7Uz2KZPUIiKoHAU_UTW5tpfibIStY u56XI7x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1761922799&amp;all ow_ip=&amp;allow_referer=&amp;signature=%2FnJNwselnDtzZ4NHPaO2I9%2BQxiQ%3D|CDM|1.3|{"originWidth":555,"originHeight":290,"style":"alignCenter","width":475,"height":248,"caption":"ML-DSA Key Pair Creation Screen"}_##]
+<img width="476" height="248" alt="image" src="https://github.com/user-attachments/assets/cc50d925-46e9-4766-9090-c0ee002d3337" />
+
 
 Once the key pair is created, you can check it using the name you entered in the KeyPair Manager.
 
 To view the key's detailed value, double-click the key.
 
-[##_Image|kage@ewxg3Z/dJMb9OAGMNz/AAAAAAAAAAAAAAAAAAAAAAP2mUw6n37wtFkegQ1Ti2ldZnl9PM-9j34T1 6vuHbErL/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1761922799&amp;al low_ip=&amp;allow_referer=&amp;signature=Gir%2BL3FPsSN29Rr4N6rnnEFGsA8%3D|CDM|1.3|{"originWidth":682,"originHeight":577,"style":"alignCenter","width":539,"height":456,"caption":"Created ML-DSA Key Pair Details Screen"}_##]
+<img width="539" height="455" alt="image" src="https://github.com/user-attachments/assets/4c06acf6-d515-4e84-b325-f32cbee91a7d" />
+
 
 ## Creating an ML-DSA Digital Signature
 
@@ -48,7 +50,7 @@ After entering the input data and clicking the Sign button, select the previousl
 
 Selecting the key will display the signature value in the Signature field.
 
-[##_Image|kage@bzgQX7/dJMb9jtRBBF/AAAAAAAAAAAAAAAAAAAAAI_AFpHBUCTd28sqJ10K72_eoiOheQl Pe2AmWKCN21tz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1761922 799&amp;allow_ip=&amp;allow_referer=&amp;signature=qNPLcy8uaEbTmPgcoXQk%2B%2Bb7df0%3D|CDM|1.3|{"originWidth":984,"originHeight":627,"style":"alignCenter","caption":"ML-DSA Create electronic signature"}_##]
+<img width="699" height="447" alt="image" src="https://github.com/user-attachments/assets/ad4b59c4-c7c5-4117-8be7-68b3f4b6dea4" />
 
 ## Verifying an ML-DSA Digital Signature
 
@@ -58,7 +60,7 @@ In that window, click the "Verify" radio button.
 
 Enter the input data and signature values, then click the "Verify" button. The signature verification results will be displayed.
 
-[##_Image|kage@pN2EU/dJMb9bWTUlS/AAAAAAAAAAAAAAAAAAAAADUb3i_mdIv_MN4epRUhY5gc-xT9aKX Fjr2oh66J7LBq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1761922 799&amp;allow_ip=&amp;allow_referer=&amp;signature=96QVWAHBswbYkXW6B001C%2FKRdDI%3D|CDM|1.3|{"originWidth":774,"originHeight":519,"style":"alignCenter","caption":"ML-DSA Electronic signature verification"}_##]
+<img width="698" height="439" alt="image" src="https://github.com/user-attachments/assets/5f411630-9eff-4190-9d59-6a805cfdb338" />
 
 ## Conclusion
 
