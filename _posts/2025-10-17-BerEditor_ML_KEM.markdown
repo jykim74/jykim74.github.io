@@ -20,7 +20,7 @@ First, to create an electronic signature, you must create an ML-KEM key pair. To
 
 <img src="">
 
-In the KeyPair window, enter the key pair name, select ML DSA in the PQC section, and select one of the three (KEM_512, KEM_768, KEM_1024) for KeyLength.
+In the KeyPair window, enter the key pair name, select ML KEM in the PQC section, and select one of the three (KEM_512, KEM_768, KEM_1024) for KeyLength.
 
 <img src="">
 
