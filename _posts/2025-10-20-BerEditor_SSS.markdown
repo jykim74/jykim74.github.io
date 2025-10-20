@@ -29,7 +29,7 @@ Sharmir's Secret Sharing Scheme is also known as Sharmir's Threshold Scheme.
 
 ## Splitting an SSS Key
 
-In BerEditor, go to Cryptography -> Shamir Secret Sharing.
+In [BerEditor](https://jykim74.github.io/software/2023/04/13/BerEditor.html), go to Cryptography -> Shamir Secret Sharing.
 
 Here, let's create a value with a Share of 5 and a Threshold of 3.
 This example creates 5 split values ​​and requires 3 values ​​to recover the original key.
