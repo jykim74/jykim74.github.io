@@ -10,7 +10,7 @@ category: Software
 If you need a license, you can obtain a 30-day license from the [Program Key Issuance](https://jykim74.mycafe24.com/user_reg.php) page.
 This feature can be tested with BerEditor version 2.5.0 or later.
 
-Let's use the [BerEditor](https://jykim74.tistory.com/36) tool to generate a key pair using the PQC algorithm, Ml-DSA, and digitally sign it.
+Let's use the [BerEditor](https://jykim74.github.io/software/2023/04/13/BerEditor.html) tool to generate a key pair using the PQC algorithm, Ml-DSA, and digitally sign it.
 
 In this example, the execution environment is set to English. If the language is Korean, the message will be displayed in Korean.
 
