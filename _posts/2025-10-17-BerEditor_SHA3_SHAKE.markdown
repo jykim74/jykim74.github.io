@@ -10,7 +10,7 @@ category: Software
 If you need a license, you can obtain a 30-day license from the [Program Key Issuance](https://jykim74.mycafe24.com/user_reg.php) page.
 This feature can be tested with BerEditor version 2.5.0 or later.
 
-Let's use BerEditor to calculate the SHA3 and SHAKE digests used in the PQC algorithm.
+Let's use [BerEditor](https://jykim74.github.io/software/2023/04/13/BerEditor.html) to calculate the SHA3 and SHAKE digests used in the PQC algorithm.
 For SHA3, there are four methods: SHA3-224, SHA3-256, SHA3-384, and SHA3-512. Each produces a result length of 24, 32, 48, and 64 bytes, the same as SHA2.
 For SHAKE, two methods are supported: SHAKE128 and SHAKE256.
 To calculate the hash value in BerEditor, select BerEditor -> Cryptography -> Hash. This will bring up a window for calculating the hash value.
