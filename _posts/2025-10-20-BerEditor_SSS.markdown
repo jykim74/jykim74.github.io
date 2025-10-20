@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[BerEditor] About SSS (Sharmir's Secret Sharing) Scheme"
+title: "[BerEditor] About SSS (Shamir's Secret Sharing) Scheme"
 tags: [sss, ssss, BerEditor, Shamir Secret Sharing, Shamir threshold scheme]
 category: Software
 ---
