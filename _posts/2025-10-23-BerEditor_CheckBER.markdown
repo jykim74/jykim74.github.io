@@ -45,9 +45,9 @@ The screen below shows the results of searching for a certificate file.
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbdwMHJ%2FdJMb81UiQic%2FAAAAAAAAAAAAAAAAAAAAAGGuGoX9XcTlPDV3SKS4Tp32MPJBuTMSPH9uVwUhfP8G%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3D3fIUAgidS7A6JMluxpJj8BA9rhw%253D">
 
-1: Certificate format information
-2: Result of clicking the V button
-3: Result of clicking the D button
+- 1: Certificate format information
+- 2: Result of clicking the V button
+- 3: Result of clicking the D button
 
 ## Conclusion
 
