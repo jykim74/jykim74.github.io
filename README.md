@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fjykim74.github.io?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 [![tistory Badge](https://img.shields.io/badge/-tistory-000000?logo=tistory&logoColor=white&link=https://jykim74.tistory.com)](https://jykim74.tistory.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link=https://www.facebook.com/jongyeob.kim.77)](https://www.facebook.com/jongyeob.kim.77)
 
