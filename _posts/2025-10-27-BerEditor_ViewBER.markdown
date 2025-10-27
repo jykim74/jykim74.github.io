@@ -5,7 +5,7 @@ tags: [ASN.1 ASN.1 view, BER, DER, BEREDITOR, DEREDITOR]
 category: Software
 ---
 
-[BerEditor](https://jykim74.tistory.com/36) is a tool for decoding and viewing ASN.1 files, specifically those encoded using DER or BER.
+[BerEditor](https://jykim74.github.io/software/2023/04/13/BerEditor.html) is a tool for decoding and viewing ASN.1 files, specifically those encoded using DER or BER.
 
 In practice, BerEditor is primarily used to view X.509 certificates or CRL files, or to decode and view detailed values ​​of DER or BER-encoded data, such as private keys.
 

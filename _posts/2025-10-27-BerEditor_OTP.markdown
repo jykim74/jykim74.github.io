@@ -30,7 +30,7 @@ For example, if UTC time is 1970.01.01 00:00:01, the local time would be 1970.01
 
 ## Executing the OTP
 
-Let's use [BerEditor](https://jykim74.tistory.com/36) to obtain the OTP value specified in RFC 6238.
+Let's use [BerEditor](https://jykim74.github.io/software/2023/04/13/BerEditor.html) to obtain the OTP value specified in RFC 6238.
 In BerEditor, go to Password->Generate OTP. Let's do this.
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FderHbX%2FdJMb9Xj3sad%2FAAAAAAAAAAAAAAAAAAAAAFa10TDEInqZ1ToE2tXeL9aR9Ce_vMlSiiNDA-6K2ndY%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DZfK1g%252FwgIRnkCTBsyZaDkrBxfAM%253D">
