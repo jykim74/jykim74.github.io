@@ -11,23 +11,21 @@ If you need a license, you can obtain a 30-day license from the [\[Program Key I
 Let's learn about OTP, which is commonly used for online banking or as an additional authentication feature.
 OTP stands for One Time Password, a one-time password.
 
+
+
 The feature provided by [BerEditor](https://jykim74.tistory.com/36) is Time-Based One Time Password.
-
 This is a standard technology defined in [RFC 6238](https://www.rfc-editor.org/rfc/rfc6238).
-
 In fact, one of the most important aspects of Time-Based OTP is the time.
 
 In reality, the time on the OTP device is inaccurate.
 Even if the OTP time error decreases, the server side that verifies the OTP value considers the difference between the forward and backward times.
 
+
 The server then records the error corrections to ensure continued use.
-
 However, if the error exceeds a certain amount of time, the OTP time must be reset.
-
 The time set in BerEditor is localTime.
 
 That is, it can be viewed as +9 hours from UTC time.
-
 For example, if UTC time is 1970.01.01 00:00:01, the local time would be 1970.01.01 09:00:01.
 
 ## Executing the OTP
