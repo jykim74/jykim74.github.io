@@ -61,7 +61,7 @@ This is how it's created.
 ## Generating a PBKDF2 Value
 
 Let's create a simple example value.
-In [BerEditor](https://jykim74.tistory.com/36), open the Cryptography -> Key Management -> Key Derive tab and enter the following information.
+In [BerEditor]([https://jykim74.tistory.com/36](https://jykim74.github.io/software/2023/04/13/BerEditor.html), open the Cryptography -> Key Management -> Key Derive tab and enter the following information.
 
 - 1: Select PBKDF2 method
 - 2: Specify the generated key length
@@ -80,7 +80,7 @@ c: 1,024
 Hash: SHA256
 dkLen: 32 bytes
 
-If you enter the input value and extract the key using [BerEditor](https://jykim74.tistory.com/36), you get the following:
+If you enter the input value and extract the key using [BerEditor]([https://jykim74.tistory.com/36](https://jykim74.github.io/software/2023/04/13/BerEditor.html), you get the following:
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FwdWz4%2FdJMcafZaITi%2FAAAAAAAAAAAAAAAAAAAAABBplTtDjexTZPeDb7H7pXEHDnwcM2eUNujhz2oS_6l_%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3Dwa1tcd1Q1rZsnocqAyC%252BsFl4dwk%253D">
 
