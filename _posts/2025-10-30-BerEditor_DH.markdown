@@ -26,13 +26,17 @@ Also, excessively short parameters should not be used.
 
 ## Obtaining S (a symmetric key) using DH
 
-Alice computes A $$ A = g^a mod p $$
+Alice computes A 
+$$A = g^a mod p$$
 
-Bob computes B $$ B = g^b mod p $$
+Bob computes B 
+$$B = g^b mod p$$
 
-Alice obtains S using B $$ S = B^a mod p $$
+Alice obtains S using B 
+$$S = B^a mod p$$
 
-Bob obtains S using A $$ S = A^b mod p $$
+Bob obtains S using A 
+$$S = A^b mod p$$
 
 This is the algorithm for Alice and Bob to obtain symmetric values ​​using the same S.
 
