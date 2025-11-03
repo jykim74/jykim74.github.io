@@ -23,8 +23,8 @@ In other words, ECDH can use the same key used in ECDSA.
 
 ECDH is created using the following formula: The mathematics of ECC itself is difficult, but the math needed to understand the concept of ECDH is simple.^^
 
-$$( a \* G ) \* b = ( b \* G ) \* a$$
-$$secret = ( a \* G ) = ( b \* G ) \* a$$
+$$( a * G ) * b = ( b * G ) * a$$
+$$secret = ( a * G ) = ( b * G ) * a$$
 
 G : ECC elliptice curve
 
