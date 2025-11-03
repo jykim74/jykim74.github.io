@@ -29,17 +29,13 @@ Encrypting the key value Let's try it.
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPTtCg%2FdJMcagDNZ1a%2FAAAAAAAAAAAAAAAAAAAAAPI2kWb0b5Ke46JSuCzEKpcQgv9Gea1iVnaIio2dvELA%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3D6MUENZc6X%252FI0nMf3zO4K0v6iZr0%253D">
 
-- 1. First, select the key encryption method. : KW
-
-```
-* There are two methods, KW and KWP, and you can choose whether to use padding.
-```
-
-- 2. Enter the key value to be encrypted.
-- 3. KEK stands for Key Encryption Key. Enter the key value used for encryption.
-- 4. Select Encryption (KeyWrap).
-- 5. Execute.
-- 6. This is the resulting key value after KeyWrap.
+- 1 First, select the key encryption method. : KW
+  - * There are two methods, KW and KWP, and you can choose whether to use padding.
+- 2 Enter the key value to be encrypted.
+- 3 KEK stands for Key Encryption Key. Enter the key value used for encryption.
+- 4 Select Encryption (KeyWrap).
+- 5 Execute.
+- 6 This is the resulting key value after KeyWrap.
 
 ### KeyUnwrap Decryption
 
@@ -49,11 +45,11 @@ Decrypts the encrypted key value. Let's try it.
 
 
 - 1 Select KW. Select the same option as when encrypting.
-- 2. Enter the KeyWrapped encryption key.
-- 3. Enter the same KEK value used for encryption.
-- 4. Select Unwrap to decrypt.
-- 5. Execute Run.
-- 6. Displays the decrypted key value.
+- 2 Enter the KeyWrapped encryption key.
+- 3 Enter the same KEK value used for encryption.
+- 4 Select Unwrap to decrypt.
+- 5 Execute Run.
+- 6 Displays the decrypted key value.
 
 Enter the 24-byte KeyWrap generated during encryption as the input value.
 
