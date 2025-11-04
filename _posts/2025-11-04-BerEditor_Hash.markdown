@@ -10,7 +10,7 @@ If you need a license, you can obtain a 30-day license from the [\[Program Key I
 
 For the hash function, refer to the link below if you are using OpenSSL to obtain it.
 [\[OpenSSL\] Message Digest (Hash function) command](https://jykim74.tistory.com/141)
-This time, let's obtain the hash, a function that creates a message digest, using [BerEditor](https://jykim74.tistory.com/36).
+This time, let's obtain the hash, a function that creates a message digest, using [BerEditor](https://jykim74.github.io/software/2023/04/13/BerEditor.html).
 
 Run the BerEditor -> Cryptography -> Hash command.
 
