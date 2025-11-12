@@ -12,7 +12,7 @@ This is a program I made personally, so if you have any questions or bugs, use [
 
 [[Download] CryptokiMan Version 2.2.2 (Win64)](https://jykim74.github.io/msi/CryptokiMan-enV222.msi "CryptokiMan")
 
-[[Download] CryptokiMan Version 2.2.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV220.dmg, "CryptokiMan")
+[[Download] CryptokiMan Version 2.2.2 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV222.dmg, "CryptokiMan")
 
 [[Download] CryptokiMan Version 2.2.2 (Linux64)](https://jykim74.github.io/zip/CryptokiManV222.zip, "CryptokiMan")
 
