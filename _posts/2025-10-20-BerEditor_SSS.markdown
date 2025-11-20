@@ -41,24 +41,24 @@ This example creates 5 split values ​​and requires 3 values ​​to recover
 
 Follow the order numbers shown in the image below. Here is the result.
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbx1KnH%2FdJMb8XqO5vz%2FAAAAAAAAAAAAAAAAAAAAAMWHbSQp8SlGiWlVENpilQXRSDxJqhYyDT8ccprAd5ys%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DcM8lO2qzIDm2muG0bk78MGZZc3o%253D" width="500" height="400">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbrsNaj%2FdJMcadtBmiC%2FAAAAAAAAAAAAAAAAAAAAAC5_brxA4NaI9DhEbqKbBHfQk_UYISxMO_HWO_98Dmyl%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DpmDLmqpFKO13E6aePjfm6ZCSe4Q%253D">
 
 Here are the example values:
 
 - Total Count 5 Threshold 3 specified
-- Prime number used: EB49EF05F639F07C36C7DF92903BF91F
+- Prime number used: CA009D7B164CB7ACB6BFAC76A39D9069
 - Key split value: 1122334455667788
 - Result list
 
-846FA728B2FC793315E247795E74960272F152F2D42DA6033417FCBAFC0E014F
+054DC474FCB47254DCC54FA2CF71D3A65C
 
-56E36FBA82573B875C6309FF80770E1E86FC8D5DE6BC3AFF6F9C237752254B12
+0493EDADBFBF68DF64BBE7715553F7DDED
 
-E46E9AE07ECC5F5BDFBADA7AB10DE5B6DEE31A7933C5504C5C116612FF7481A4
+0372A1A8C978F4E51207F54CE6C44FC9B4
 
-5737AFC3EDDD2A1833A986D6F757E332B35529CF2FCC1CE905AD439ECFAE3E89
+02B3E10394F7631D916038E1FA6678FA1A
 
-2BD1D8A141A3247C48A18BAF94C0837DD8CB4ADD89655E36C2A1964A92DAB2C5
+018DAB20A72466D1360DF2841996D5DEB6
 
 The Share value generated here is a coordinate value, so it is twice the length of the decimal value (X||Y coordinate value).
 
@@ -72,18 +72,19 @@ This time, let's insert 3 of the 5 split key values ​​into the secret value 
 4: Execute the merge
 5: Result key Confirm
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F3b6c4%2FdJMb9VzKTDY%2FAAAAAAAAAAAAAAAAAAAAAL_g88wk-x2jhSIxMMZ0nMMyOq6S_g4llfiZEnyLG6EX%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DnxDD9AR%252FJNgV82uyeKyvvbnfMGc%253D" width="500" height="400">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FV8Bwc%2FdJMcaiBF0Hg%2FAAAAAAAAAAAAAAAAAAAAANKCLcgkAXTOIKZCST-IliLkhexIYhqjXIrdPf6-JiWa%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DpLWufkmIpGBz8D7VUA6eiwaWSrs%253D">
 
 
 - Total Count 5 Threshold 3 Specified
-- Used decimals: EB49EF05F639F07C36C7DF92903BF91F
+- Used decimals: CA009D7B164CB7ACB6BFAC76A39D9069
 - Input key list of 3
 
-846FA728B2FC793315E247795E74960272F152F2D42DA6033417FCBAFC0E014F
+054DC474FCB47254DCC54FA2CF71D3A65C
 
-56E36FBA82573B875C6309FF80770E1E86FC8D5DE6BC3AFF6F9C237752254B12
+0372A1A8C978F4E51207F54CE6C44FC9B4
 
-5737AFC3EDDD2A1833A986D6F757E332B35529CF2FCC1CE905AD439ECFAE3E89
+02B3E10394F7631D916038E1FA6678FA1A
+
 - Key result values: 1122334455667788
 
 With these three inputs, we can obtain the original key value, 1122334455667788.
