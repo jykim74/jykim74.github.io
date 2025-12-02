@@ -4,14 +4,23 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.6.6 업데이트 하였습니다.  
+BerEditor 버전 2.6.8 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.6.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV266.msi)  
+[\[Download\] BerEditor Version 2.6.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV268.msi)  
 
 [\[Download\] BerEditor Version 2.6.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV266.dmg) 
 
-[\[Download\] BerEditor Version 2.6.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV266.zip)
+[\[Download\] BerEditor Version 2.6.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV268.zip)
+
+## Version 2.6.8 업데이트
+- BER 이전 다음 이동 기능 추가
+- BER 검색 기능 오류 수정 및 검색어 포함 유무 검색 지원
+- BER BITSTREAM 확장시 오류 수정
+- TTLV 이전 다음 이동 기능 추가
+- TTLV 검색 기능 오류 수정 및 검색어 포함 유무 검색 지원
+- BER과 TTLV 선택 영역 표시 설정 각각 처리로 설정 분리
+- 인증서 경로 검증에서 CertMan CA 및 CRL 읽어오기 옵션 지원
 
 ## Version 2.6.6 업데이트
 - BER 편집(추가/삭제/변경) 오류 수정 및 UI 개선
