@@ -9,7 +9,7 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 
 [\[Download\] BerEditor Version 2.6.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV268.msi)  
 
-[\[Download\] BerEditor Version 2.6.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV266.dmg) 
+[\[Download\] BerEditor Version 2.6.8 (MacOS)](https://jykim74.github.io/dmg/BerEditorV268.dmg) 
 
 [\[Download\] BerEditor Version 2.6.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV268.zip)
 
