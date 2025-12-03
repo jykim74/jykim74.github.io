@@ -15,7 +15,8 @@ BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](ht
 
 ## Version 2.7.0 업데니트
 - BER 트리 마우스 우클릭 죽는 오류 수정
-- 가능한 이전 버전 사용자는  업데이트 해주세요T.T
+	- 그동안 테스트 부족으로 못한 안정화 작업이 되었습니다.
+	- 가능한 이전 버전 사용자는  업데이트 해주세요
 
 ## Version 2.6.8 업데이트
 - BER 이전 다음 이동 기능 추가
