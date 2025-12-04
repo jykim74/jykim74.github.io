@@ -32,6 +32,10 @@ Although it is lacking, the manual page supports a translator.
 
 |classification|License Version|Unlicensed Version|
 |---|---|---|
+| DER BER view | O | O |
+| Data Encode | O | O |
+| Num Converter | O | O |
+| OID Information | O | O |
 |XML Tab| O | X |
 |Text Tab | O | X |
 | Log Tab | O | X |
