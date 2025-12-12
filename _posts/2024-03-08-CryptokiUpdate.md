@@ -4,16 +4,21 @@ title: "CryptokiMan Update History"
 tags: [Cryptoki, CryptokiMan, ECDSA, HSM, PKCS#11, PKI, RSA]
 category: Software
 ---
-CryptokiMan Version 2.2.2 업데이트 하였습니다.  
+CryptokiMan Version 2.2.4 업데이트 하였습니다.  
 이프로그램은 PKCS#11 Version 2.4 표준 문서를 기준으로 만들어 졌습니다.  
 CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )](https://jykim74.tistory.com/38) 을 참조하세요.
 
-[\[Download\] CryptokiMan Version 2.2.2 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV222.msi)  
+[\[Download\] CryptokiMan Version 2.2.4 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV224.msi)  
 
 [\[Download\] CryptokiMan Version 2.2.2 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV222.dmg)
 
-[\[Download\] CryptokiMan Version 2.2.2 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV222.zip)
+[\[Download\] CryptokiMan Version 2.2.4 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV224.zip)
 
+## Version 2.2.4 업데이트
+- Unload 오류 수정
+- 툴바 아이콘 변경 및 순서 처리 개선
+- Hash, Sign/Verify Enc/Dec UI 개선
+- 객체 보기에서 각각의 값 편집 지원
 
 ## Version 2.2.2 업데이트
 - CSR 생성에서 동일 RDN 지원
