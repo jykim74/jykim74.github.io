@@ -4,14 +4,21 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.7.4 업데이트 하였습니다.  
+BerEditor 버전 2.7.6 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.7.4 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV274.msi)  
+[\[Download\] BerEditor Version 2.7.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV276.msi)  
 
-[\[Download\] BerEditor Version 2.7.4 (MacOS)](https://jykim74.github.io/dmg/BerEditorV274.dmg) 
+[\[Download\] BerEditor Version 2.7.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV276.dmg) 
 
-[\[Download\] BerEditor Version 2.7.4 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV274.zip)
+[\[Download\] BerEditor Version 2.7.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV276.zip)
+
+## Version 2.7.6 업데이트
+- BER 노드 보기 지원
+- 다른이름 저장 오류 수정
+- PDF 서명 오류 수정
+- PKCS7 CMS DETACHED 에서 데이타 입력 지원
+
 
 ## Version 2.7.4 업데이트
 - CMS PKCS7 오류 수정
