@@ -10,7 +10,7 @@ CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )
 
 [\[Download\] CryptokiMan Version 2.2.8 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV228.msi)  
 
-[\[Download\] CryptokiMan Version 2.2.6 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV226.dmg)
+[\[Download\] CryptokiMan Version 2.2.8 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV228.dmg)
 
 [\[Download\] CryptokiMan Version 2.2.8 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV228.zip)
 
