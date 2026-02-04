@@ -4,12 +4,15 @@ title: "CertMan Update History"
 tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,PQC,ML-DSA,SLH-DSA]
 category: Software
 ---
-CertMan Version 2.2.8 업데이트 하였습니다.  
+CertMan Version 2.3.0 업데이트 하였습니다.  
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
-[\[Download\] CertMan Version 2.2.8 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV228.msi)  
+[\[Download\] CertMan Version 2.3.0 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV230.msi)  
 [\[Download\] CertMan Version 2.2.8 ( MacOS )](https://jykim74.github.io/dmg/CertManV228.dmg)  
-[\[Download\] CertMan Version 2.2.8 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV228.zip)
+[\[Download\] CertMan Version 2.3.0 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV230.zip)
+
+## Version 2.3.0 업데이트
+- 라이선스창에서 무료 라이선스 발급 지원 (이메일 입력 필요함)
 
 ## Version 2.2.8 업데이트
 - 인증서 CRL 만료에 따른 아이콘 표시
