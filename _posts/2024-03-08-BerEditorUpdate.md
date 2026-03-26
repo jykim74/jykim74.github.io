@@ -4,14 +4,19 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.8.4 업데이트 하였습니다.  
+BerEditor 버전 2.8.6 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.8.4 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV284.msi)  
+[\[Download\] BerEditor Version 2.8.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV286.msi)  
 
-[\[Download\] BerEditor Version 2.8.4 (MacOS)](https://jykim74.github.io/dmg/BerEditorV284.dmg) 
+[\[Download\] BerEditor Version 2.8.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV286.dmg) 
 
-[\[Download\] BerEditor Version 2.8.4 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV284.zip)
+[\[Download\] BerEditor Version 2.8.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV286.zip)
+
+## Version 2.8.6 업데이트
+- BER 데이타 Indefinite 길이를 Definite 변경 지원
+- Binary 보기 지원
+- Text 보기 지원
 
 ## Version 2.8.4 업데이트
 - BER 비교하기 지원
