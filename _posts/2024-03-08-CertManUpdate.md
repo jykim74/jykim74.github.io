@@ -11,7 +11,7 @@ CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://
 [\[Download\] CertMan Version 2.3.2 ( MacOS )](https://jykim74.github.io/dmg/CertManV232.dmg)  
 [\[Download\] CertMan Version 2.3.2 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV232.zip)
 
-## Version 2.3.2 업데니트
+## Version 2.3.2 업데이트
 - TSP, OCSP, CMP, ACME, EST, SCEP 서비스 추가
 - Debug 콘솔 메세지 제거
 - 라이선스 알림 체크
