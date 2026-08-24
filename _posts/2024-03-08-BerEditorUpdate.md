@@ -4,14 +4,22 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.9.0 업데이트 하였습니다.  
+BerEditor 버전 2.9.2 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.9.0 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV290.msi)  
+[\[Download\] BerEditor Version 2.9.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV292.msi)  
 
-[\[Download\] BerEditor Version 2.9.0 (MacOS)](https://jykim74.github.io/dmg/BerEditorV290.dmg) 
+[\[Download\] BerEditor Version 2.9.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV292.dmg) 
 
-[\[Download\] BerEditor Version 2.9.0 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV290.zip)
+[\[Download\] BerEditor Version 2.9.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV292.zip)
+
+## Version 2.9.2 업데이트
+- Debug 콘솔 메세지 제거
+- 라이선스 알림 체크
+- EST 클라이언트 기능 추가
+- ACME Challenge 테스트 기능 추가
+- 클라이언트 기능 오류 수정
+- UI 개선 및 버그 수정
 
 ## Version 2.9.0 업데이트
 - PDF Signer 분리 구현
