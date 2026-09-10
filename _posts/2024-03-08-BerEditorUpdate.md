@@ -4,14 +4,17 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.9.2 업데이트 하였습니다.  
+BerEditor 버전 2.9.4 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.9.2 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV292.msi)  
+[\[Download\] BerEditor Version 2.9.4 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV294.msi)  
 
-[\[Download\] BerEditor Version 2.9.2 (MacOS)](https://jykim74.github.io/dmg/BerEditorV292.dmg) 
+[\[Download\] BerEditor Version 2.9.4 (MacOS)](https://jykim74.github.io/dmg/BerEditorV294.dmg) 
 
-[\[Download\] BerEditor Version 2.9.2 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV292.zip)
+[\[Download\] BerEditor Version 2.9.4 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV294.zip)
+
+## Version 2.9.4 업데이트
+- LDAP 가져오기 및 다수 중요 오류 수정
 
 ## Version 2.9.2 업데이트
 - Debug 콘솔 메세지 제거
