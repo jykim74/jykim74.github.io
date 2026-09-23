@@ -4,15 +4,20 @@ title: "CryptokiMan Update History"
 tags: [Cryptoki, CryptokiMan, ECDSA, HSM, PKCS#11, PKI, RSA]
 category: Software
 ---
-CryptokiMan Version 2.3.0 업데이트 하였습니다.  
+CryptokiMan Version 2.3.2 업데이트 하였습니다.  
 이프로그램은 PKCS#11 Version 2.4 표준 문서를 기준으로 만들어 졌습니다.  
 CryptokiMan에 대한 파일 설명은 [CryptokiMan ( PKCS#11 Cryptoki Manager )](https://jykim74.tistory.com/38) 을 참조하세요.
 
-[\[Download\] CryptokiMan Version 2.3.0 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV230.msi)  
+[\[Download\] CryptokiMan Version 2.3.2 (Windows 64bits)](https://jykim74.github.io/msi/CryptokiMan-enV232.msi)  
 
-[\[Download\] CryptokiMan Version 2.3.0 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV230.dmg)
+[\[Download\] CryptokiMan Version 2.3.2 (MacOS)](https://jykim74.github.io/dmg/CryptokiManV232.dmg)
 
-[\[Download\] CryptokiMan Version 2.3.0 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV230.zip)
+[\[Download\] CryptokiMan Version 2.3.2 (Linux 64bits)](https://jykim74.github.io/zip/CryptokiManV232.zip)
+
+## Version 2.3.2 업데이트
+- PKCS#11 Version 3.2 헤더 지원
+- ML-KEM, ML-DSA 키 생성 및 서명 지원
+- 오류 수정
 
 ## Version 2.3.0 업데이트
 - Debug 콘솔 메세지 제거
