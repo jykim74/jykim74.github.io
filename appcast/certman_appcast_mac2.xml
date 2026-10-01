@@ -5,10 +5,10 @@
 		<description>Feed for CertMan updates</description>
 		<language>en</language>
 		<item>
-			<title>Version 2.3.2</title>
+			<title>Version 2.3.4</title>
 			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CertManUpdate.html</sparkle:releaseNotesLink>
-			<enclosure url="https://jykim74.github.io/dmg/CertManV232.dmg" sparkle:version="2.3.2"
-			sparkle:edSignature="AKWC30uuR361l0uUzG2aDUXNdSiVeTCT13t2gOPsB1YRrkTLjmOcMw8m3f8LRcR93zKBXdgl/OM05HlEyOg4DQ==" length="18201276"
+			<enclosure url="https://jykim74.github.io/dmg/CertManV234.dmg" sparkle:version="2.3.4"
+			sparkle:edSignature="Kqk3+Kl4pGNg8mA9ELv5T2naA3jUNbrCFWQ9TUh5/aU788/DhsfU7Legaj5tQ5T7HQvxcKlEVBSzgt4+gxsvCg==" length="18234848"
 			type="application/octet-stream"/>
 		</item>
 	</channel>
