@@ -16,11 +16,11 @@ The size is about 29M.
 
 This is a program I made personally, so if you have any questions or bugs, use [Google Groups]( https://groups.google.com/g/bereditor, "Google Groups" )
 
-[[Download] BerEditor Version 2.9.4 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV294.msi "BerEditor" )
+[[Download] BerEditor Version 2.9.6 (Win64)]( https://jykim74.github.io/msi/BerEditor-enV296.msi "BerEditor" )
 
-[[Download] BerEditor Version 2.9.4 (MacOS)]( https://jykim74.github.io/dmg/BerEditorV294.dmg "BerEditor" )
+[[Download] BerEditor Version 2.9.6 (MacOS)]( https://jykim74.github.io/dmg/BerEditorV296.dmg "BerEditor" )
 
-[[Download] BerEditor Version 2.9.4 (Linux64)]( https://jykim74.github.io/zip/BerEditorV294.zip "BerEditor" )
+[[Download] BerEditor Version 2.9.6 (Linux64)]( https://jykim74.github.io/zip/BerEditorV296.zip "BerEditor" )
 
 If you would like to receive a license, simply write a request in [Free License Request](https::/jykim7.mycafe24.com/user_reg.php) and you can receive a trial (30-day) license.
 Of course, you can apply for a license multiple times.

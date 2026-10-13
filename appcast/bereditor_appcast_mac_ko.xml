@@ -5,10 +5,10 @@
 		<description>Feed for BerEditor updates</description>
 		<language>en</language>
 		<item>
-			<title>Version 2.9.4</title>
+			<title>Version 2.9.6</title>
 			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/BerEditorUpdate.html</sparkle:releaseNotesLink>
-			<enclosure url="https://jykim74.github.io/dmg/BerEditorV294.dmg" sparkle:version="2.9.4"
-			sparkle:edSignature="UV9piHjn9OqUxQ73mfQqmbN7lWRSyiQ5V6Wqf3lLzQcMQ7FYuGdr2EUXTpIi8YYUDyQdk+G17bpRwZRX2xF3Ag==" length="34299069"
+			<enclosure url="https://jykim74.github.io/dmg/BerEditorV296.dmg" sparkle:version="2.9.6"
+			sparkle:edSignature="kK5S4FAMHyUXOG9+x7yIJkhqejy0Fpy2kUtgJh/NQkl8PMOju2iZretgZADi1n3O0idipPwbRU2fj8NBF5JLDg==" length="34312760"
 			type="application/octet-stream"/>
 		</item>
 	</channel>
