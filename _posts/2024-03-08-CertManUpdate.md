@@ -4,12 +4,16 @@ title: "CertMan Update History"
 tags: [X.509,Cert,Certificate,CRL,RSA,ECDSA,PKI,PQC,ML-DSA,SLH-DSA]
 category: Software
 ---
-CertMan Version 2.3.4 업데이트 하였습니다.  
+CertMan Version 2.3.6 업데이트 하였습니다.  
 CertMan에 대한 파일 설명은 [CertMan ( X509 Cert, CRL Manager )](https://jykim74.tistory.com/37) 을 참조하세요.
 
-[\[Download\] CertMan Version 2.3.4 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV234.msi)  
-[\[Download\] CertMan Version 2.3.4 ( MacOS )](https://jykim74.github.io/dmg/CertManV234.dmg)
-[\[Download\] CertMan Version 2.3.4 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV234.zip)
+[\[Download\] CertMan Version 2.3.6 ( Windows 64bits )](https://jykim74.github.io/msi/CertMan-enV236.msi)  
+[\[Download\] CertMan Version 2.3.6 ( MacOS )](https://jykim74.github.io/dmg/CertManV236.dmg)
+[\[Download\] CertMan Version 2.3.6 ( Linux 64bits )](https://jykim74.github.io/zip/CertManV236.zip)
+
+## Version 2.3.6 업데이트
+ - 개인키 복호화 오류 수정
+ - 메뉴얼 링크 지원
 
 ## Version 2.3.4 업데이트
 - EDDSA 관련 버그 수정

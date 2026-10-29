@@ -4,14 +4,18 @@ title: "BerEditor Update History"
 tags: [ASN.1,ASN.1 viewer, BER, DER, PQC, RSA, ECDSA, DSA, PQC, ML-KEM, ML-DSA, SLH-DSA]
 category: Software
 ---
-BerEditor 버전 2.9.6 업데이트 하였습니다.  
+BerEditor 버전 2.9.8 업데이트 하였습니다.  
 BerEditor에 대한 설명은 [BerEditor ( ASN.1 DER BER Viewer and Editor )](https://jykim74.tistory.com/36) 을 참조 하세요.
 
-[\[Download\] BerEditor Version 2.9.6 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV296.msi)  
+[\[Download\] BerEditor Version 2.9.8 (Winows 64bits)](https://jykim74.github.io/msi/BerEditor-enV298.msi)  
 
-[\[Download\] BerEditor Version 2.9.6 (MacOS)](https://jykim74.github.io/dmg/BerEditorV296.dmg) 
+[\[Download\] BerEditor Version 2.9.8 (MacOS)](https://jykim74.github.io/dmg/BerEditorV298.dmg) 
 
-[\[Download\] BerEditor Version 2.9.6 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV296.zip)
+[\[Download\] BerEditor Version 2.9.8 (Linux 64bits)](https://jykim74.github.io/zip/BerEditorV298.zip)
+
+## Version 2.9.8 업데이트
+ - 개인키 복호화 오류 수정
+ - 메뉴얼 링크 지원
 
 ## Version 2.9.6 업데이트
 - CertMan 에서 System Trust List 불러오기 지원
