@@ -6,7 +6,7 @@
 		<language>en</language>
 		<item>
 			<title>Version 2.3.4</title>
-			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CryptokiUpdate.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/wiki/cryptokiman/release</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/CryptokiManV234.dmg" sparkle:version="2.3.4" 
 			sparkle:edSignature="D/PlsF2Vc39p7Yymatj6BPpUWK42GkawunvXs6JqitKB1gyZnxV46ks4o5etDLIlqEPkjvVuYOptYFsSma8RAw==" length="17482489"
 			type="application/octet-stream"/>

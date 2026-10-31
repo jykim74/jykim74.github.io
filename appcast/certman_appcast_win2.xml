@@ -6,7 +6,7 @@
 		<language>en</language>
 		<item>
 			<title>Version 2.3.6</title>
-			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/CertManUpdate.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/wiki/certman/release</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/msi/CertMan-enV236.msi" sparkle:version="2.3.6" length="0" type="application/octet-stream"/>
 		</item>
 	</channel>
