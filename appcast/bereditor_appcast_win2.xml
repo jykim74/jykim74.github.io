@@ -6,7 +6,7 @@
 		<language>en</language>
 		<item>
 			<title>Version 3.0.0</title>
-			<sparkle:releaseNotesLink>https://jykim74.github.io/software/2024/03/08/BerEditorUpdate.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/wiki/bereditor/release</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/msi/BerEditor-enV300.msi" sparkle:version="3.0.0" length="0" type="application/octet-stream"/>
 		</item>
 	</channel>
