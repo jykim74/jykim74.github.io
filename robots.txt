@@ -1,5 +1,13 @@
 User-agent: *
-Allow: /
+Allow:/
 
 Sitemap: https://jykim74.github.io/sitemap.xml
+
+Sitemap: https://jykim74.github.io/jklab/sitemap.xml
+
+Sitemap: https://jykim74.github.io/bereditor_manual/sitemap.xml
+
+Sitemap: https://jykim74.github.io/certman_manual/sitemap.xml
+
+Sitemap: https://jykim74.github.io/cryptokiman_manual/sitemap.xml
 
