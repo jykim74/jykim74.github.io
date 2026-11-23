@@ -6,7 +6,7 @@
 		<language>en</language>
 		<item>
 			<title>Version 2.3.6</title>
-			<sparkle:releaseNotesLink>https://jykim74.github.io/wiki/cryptokiman/release</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/jklab/cryptokiman/release</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/CryptokiManV236.dmg" sparkle:version="2.3.6" 
 			sparkle:edSignature="JXsXpESRWFAwGT0+j6FJQqm3+yEzccf81No3CBN5fAibtM/JSrAgyS5VfMhv77qltE4YUC4/VB+yMlZRwNmKCQ==" length="17483149"
 			type="application/octet-stream"/>

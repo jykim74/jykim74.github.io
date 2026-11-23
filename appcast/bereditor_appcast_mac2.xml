@@ -6,7 +6,7 @@
 		<language>en</language>
 		<item>
 			<title>Version 3.0.2</title>
-			<sparkle:releaseNotesLink>https://jykim74.github.io/wiki/bereditor/release</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/jklab/bereditor/release</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/BerEditorV302.dmg" sparkle:version="3.0.2"
 			sparkle:edSignature="D80UmXsn90KMcDDPQjiwuYv2uIvT9rbI7VuzD7egVA7tNJxQwNhYRMuvSdCCGEfVYGvpnJ8FUWQNjsu2mC57AA==" length="34362569"
 			type="application/octet-stream"/>

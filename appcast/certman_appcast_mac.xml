@@ -6,7 +6,7 @@
 		<language>en</language>
 		<item>
 			<title>Version 2.4.0</title>
-			<sparkle:releaseNotesLink>https://jykim74.github.io/wiki/certman/release</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://jykim74.github.io/jklab/certman/release</sparkle:releaseNotesLink>
 			<enclosure url="https://jykim74.github.io/dmg/CertManV240.dmg" sparkle:version="2.4.0"
 			sparkle:edSignature="Uyji9bz6Qc5cx14bhyPMQOVEECTtkBD66ZuOeF8zPNt41VLaO0cCCcMRlGwlpuGvzDoNHaztERgc7iQx+6wADA==" length="18243332"
 			type="application/octet-stream"/>
